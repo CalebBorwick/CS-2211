@@ -1,0 +1,60 @@
+Script started on Tue 16 Oct 2018 01:28:12 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211/asn2
+bash-4.2$ date
+Tue Oct 16 13:28:17 EDT 2018
+bash-4.2$ whoami
+iborwick
+bash-4.2$ ls
+converter  converter.c	converter.o  convert.txt  exp_calculator  exp_calculator.c  exp_calculator.o  SubmForm.txt
+bash-4.2$ gcc -c converter.c
+bash-4.2$ gcc converter.o -o converter
+bash-4.2$ ./converter
+Enter a value between 1 and 5: 1
+Enter K or M for conversion: k
+Enter the kilometer value to be converted: 1
+There is 0.62 miles in 1 kilometer
+Enter a value between 1 and 5: 1
+Enter K or M for conversion: m
+Enter the mile value to be converted: 1
+There is 1.61 kilometer in 1 miless
+Enter a value between 1 and 5: 1
+Enter K or M for conversion: L
+Please enter a valid input
+Enter a value between 1 and 5: 2
+Enter F or M for conversion: F
+Enter the foot value to be converted: 10
+There is 3.05 meters in 10 feet
+Enter a value between 1 and 5: 2
+Enter F or M for conversion: M
+Enter the meter value to be converted: 10
+There is 32.81 feet in 10 meters
+Enter a value between 1 and 5: 3 2
+Enter F or M for conversion: L
+Please enter a valid input
+Enter a value between 1 and 5: 3
+Enter C or I for conversion: C
+Enter the centimeter value to be converted: 10
+There is 3.94 inches in 10 centimeters
+Enter a value between 1 and 5: 3
+Enter C or I for conversion: I
+Enter the inch value to be converted: 10
+There is 25.40 centimeters in 10 inches
+Enter a value between 1 and 5: 3
+Enter C or I for conversion: L
+Please enter a valid input
+Enter a value between 1 and 5: 4
+Enter C or F for conversion: C
+Enter the celsius temperature to be converted: 10
+10 celsius is 50.00 fahrenheit
+Enter a value between 1 and 5: 4
+Enter C or F for conversion: F
+Enter the fahrenheit temperature to be converted: 60
+60 fahrenheit is 15.56 celsius
+Enter a value between 1 and 5: 4
+Enter C or F for conversion: L
+Enter a value between 1 and 5: 5
+bash-4.2$ exit
+exit
+
+Script done on Tue 16 Oct 2018 01:30:23 PM EDT

@@ -1,0 +1,25 @@
+Script started on Tue 16 Oct 2018 02:33:06 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211/asn2
+bash-4.2$ date
+Tue Oct 16 14:33:14 EDT 2018
+bash-4.2$ whoami
+iborwick
+bash-4.2$ ls
+converter  converter.c	converter.o  convert.txt  exp_calc.txt	exp_calculator	exp_calculator.c  exp_calculator.o  SubmForm.txt  typescript
+bash-4.2$ gcc -c exp_calculator.c
+bash-4.2$ gcc exp_calculator.o -o exp_Calculator[K[K[K[K[K[K[K[K[K[Kcalculator
+bash-4.2$ ,[K./exp_calculator
+Enter the base value: 2
+Enter the exponential value: 3
+2^3 = 8
+bash-4.2$ ex[K[K./exp_calculator
+Enter the base value: -3
+You cannot use a negative base
+Enter the base value: 3
+Enter the exponential value: 4
+3^4 = 81
+bash-4.2$ q[Kexit
+exit
+
+Script done on Tue 16 Oct 2018 02:34:24 PM EDT
