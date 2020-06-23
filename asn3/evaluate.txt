@@ -1,0 +1,59 @@
+Script started on Tue 30 Oct 2018 10:00:39 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211/asn3
+bash-4.2$ date
+Tue Oct 30 22:00:44 EDT 2018
+bash-4.2$ whoami
+iborwick
+bash-4.2$ ls
+a.out  evaluate  evaluate.c  evaluate.o  evaluate.txt  SevDigDis  SevDigDis.c  SevDigDis.o  SubmForm.txt
+bash-4.2$ gcc ev[K[K[K - [Kc evaluate.c
+bash-4.2$ gcc evaluate.o-o[K[K -o evaluate
+bash-4.2$ ./evaluate
+Enter a value: 5
+Number: 5.00 
+The answer is 5.00 
+Enter Y to continue on N to exit: y
+Enter a value: 3*4
+Number: 3.00 
+Number: 4.00 
+The answer is 12.00 
+Enter Y to continue on N to exit: y
+Enter a value: 4 +3
+Number: 4.00 
+Operator: + 
+Number: 3.00 
+The answer is 7.00 
+Enter Y to continue on N to exit: y
+Enter a value: 2.6/2-1.5*10
+Number: 2.60 
+Number: 2.00 
+Number: 1.50 
+Number: 10.00 
+The answer is -13.70 
+Enter Y to continue on N to exit: y
+Enter a value: -2.0*2+1.5*10-100
+Number: -2.00 
+Number: 2.00 
+Number: 1.50 
+Number: 10.00 
+Number: 100.00 
+The answer is -89.00 
+Enter Y to continue on N to exit: y
+Enter a value: 3.5   5--1.5*10/3.0+2*3
+Number: 3.50 
+Number: -1.50 
+Number: 10.00 
+Number: 3.00 
+Number: 2.00 
+Number: 3.00 
+The answer is 6.50 
+Enter Y to continue on N to exit: y
+Enter a value: 3.5-1.5%10-20 .0
+Number: 3.50 
+Number: 1.50 
+Number: 10.00 
+bash-4.2$ exit
+exit
+
+Script done on Tue 30 Oct 2018 10:03:28 PM EDT

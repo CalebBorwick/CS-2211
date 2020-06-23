@@ -1,0 +1,44 @@
+Script started on Tue 30 Oct 2018 11:06:24 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211/asn3
+bash-4.2$ date
+Tue Oct 30 23:06:29 EDT 2018
+bash-4.2$ whoami
+iborwick
+bash-4.2$ ls
+a.out  evaluate  evaluate.c  evaluate.o  evaluate.txt  SevDigDis  SevDigDis.c  SevDigDis.o  SevDigDis.txt  SubmForm.txt
+bash-4.2$ gcc 0c[K[K-c SevDigDis.c
+bash-4.2$ gcc SevDigDis.o -o SevDigDis
+bash-4.2$ ./SevDigDis
+Enter a int (10 char max): 1234567890
+    _  _     _  _  _  _  _  _ 
+ |  _| _||_||_ |_   ||_||_|| |
+ | |_  _|  | _||_|  ||_| _||_|
+
+Would you like to continue (y or n): 
+y
+Enter a int (10 char max): 1
+   
+ | 
+ | 
+
+Would you like to continue (y or n): 
+t y
+Enter a int (10 char max): 345678
+ _     _  _  _  _ 
+ _||_||_ |_   ||_|
+ _|  | _||_|  ||_|
+
+Would you like to continue (y or n): 
+y
+Enter a int (10 char max): 8752901
+ _  _  _  _  _  _    
+|_|  ||_  _||_|| | | 
+|_|  | _||_  _||_| | 
+
+Would you like to continue (y or n): 
+n
+bash-4.2$ exit
+exit
+
+Script done on Tue 30 Oct 2018 11:07:31 PM EDT

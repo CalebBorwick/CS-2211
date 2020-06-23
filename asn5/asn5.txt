@@ -1,0 +1,88 @@
+Script started on Mon 03 Dec 2018 02:05:12 PM EST
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211/asn5
+bash-4.2$ date
+Mon Dec  3 14:05:21 EST 2018
+bash-4.2$ whoami
+iborwick
+bash-4.2$ ls
+asn5.txt  bstree  datatype  include  main  matrix  SubmForm.txt
+bash-4.2$ cd main
+bash-4.2$ ls
+main  main.c  main.o  Makefile
+bash-4.2$ make
+(cd ../bstree; make export)
+make[1]: Entering directory `/student/iborwick/cs2211/asn5/bstree'
+make[1]: Nothing to be done for `export'.
+make[1]: Leaving directory `/student/iborwick/cs2211/asn5/bstree'
+(cd ../datatype; make export)
+make[1]: Entering directory `/student/iborwick/cs2211/asn5/datatype'
+make[1]: Nothing to be done for `export'.
+make[1]: Leaving directory `/student/iborwick/cs2211/asn5/datatype'
+(cd ../matrix; make export)
+make[1]: Entering directory `/student/iborwick/cs2211/asn5/matrix'
+make[1]: Nothing to be done for `export'.
+make[1]: Leaving directory `/student/iborwick/cs2211/asn5/matrix'
+gcc -o main main.o ../bstree/bstree.o ../datatype/datatype.o ../matrix/matrix.o
+bash-4.2$ ./main
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+aab aab       bba aa
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+aab aab
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+bba aa
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+aab abb
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+bba aaa
+Enter 0 to exit or 1 to continue: 
+0
+String 1   String 2   Occurrence
+====================================
+aab        aab        1
+aab        abb        1
+bba        aa         2
+bba        aaa        1
+bash-4.2$ ./main
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+ab ba
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+ac ca
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+ab ba
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+er la
+Enter 0 to exit or 1 to continue: 
+1
+Enter 2 strings seperated by a whitespace: 
+mk nots
+Enter 0 to exit or 1 to continue: 
+0
+String 1   String 2   Occurrence
+====================================
+ab         ba         2
+ac         ca         1
+er         la         1
+mk         nots       1
+bash-4.2$ exit
+exit
+
+Script done on Mon 03 Dec 2018 02:07:16 PM EST

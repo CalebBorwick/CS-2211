@@ -1,0 +1,72 @@
+Script started on Sat 17 Nov 2018 08:36:41 PM EST
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211/asn4
+bash-4.2$ date
+Sat Nov 17 20:36:44 EST 2018
+bash-4.2$ whoami
+iborwick
+bash-4.2$ gcc bst.c data.c main.c -o main
+bash-4.2$ ./main
+Please enter the size of the tree: 10000 
+Enter first key and then int data, separated by whitespace: Once 1 11
+Once, 1, 11
+Enter Q/q to quit or enter another key: Upon 22 2
+Upon, 22, 2
+Enter Q/q to quit or enter another key: a 3 33
+a, 3, 33
+Enter Q/q to quit or enter another key: time 4 44
+time, 4, 44
+Enter Q/q to quit or enter another key: is 5 55
+is, 5, 55
+Enter Q/q to quit or enter another key: filmed 6 66
+filmed, 6, 66
+Enter Q/q to quit or enter another key: in 7 77
+in, 7, 77
+Enter Q/q to quit or enter another key: Vancouver 8 88
+Vancouver, 8, 88
+Enter Q/q to quit or enter another key: ! 9 99   9 9
+!, 99, 9
+Enter Q/q to quit or enter another key: Once 9   5 1
+Once, 5, 1
+Once, 5
+Enter Q/q to quit or enter another key: Once 1 10
+Once, 1, 10
+Once, 1
+Enter Q/q to quit or enter another key: q
+!
+Once
+Upon
+Vancouver
+a
+filmed
+in
+is
+time
+bash-4.2$ ./main
+Please enter the size of the tree: 55
+Enter first key and then int data, separated by whitespace: hello 1 4
+hello, 1, 4
+Enter Q/q to quit or enter another key: there 2 5
+there, 2, 5
+Enter Q/q to quit or enter another key: General 3 9
+General, 3, 9
+Enter Q/q to quit or enter another key: Kenobi 6 11
+Kenobi, 6, 11
+Enter Q/q to quit or enter another key: q
+General
+Kenobi
+hello
+there
+bash-4.2$ ./main
+Please enter the size of the tree: 2
+Enter first key and then int data, separated by whitespace: hi 1 1
+hi, 1, 1
+Enter Q/q to quit or enter another key: hello 4 40
+hello, 4, 40
+Segmentation fault
+bash-4.2$ quit
+bash: quit: command not found
+bash-4.2$ exit
+exit
+
+Script done on Sat 17 Nov 2018 08:41:22 PM EST

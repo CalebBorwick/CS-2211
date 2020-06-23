@@ -1,0 +1,23 @@
+Script started on Sat 17 Nov 2018 08:29:00 PM EST
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211/asn4
+bash-4.2$ date
+Sat Nov 17 20:29:05 EST 2018
+bash-4.2$ whoami
+iborwick
+bash-4.2$ ls
+bst.c  bst.h  data.c  data.h  main.c  piCalc  piCalc.c	piCalc.o  piCalc.txt  SubmForm.txt
+bash-4.2$ gcc -c[Ko piCl[Kalc piCalc.c -lm
+bash-4.2$ ./piCalc
+Enter a value to estimate pi too: 0.0001
+3.141543
+bash-4.2$ ./piCalc
+Enter a value to estimate pi too: 0.0000001
+3.141593
+bash-4.2$ ./piCalc
+Enter a value to estimate pi too: 0.0000000001
+0.000000
+bash-4.2$ exit
+exit
+
+Script done on Sat 17 Nov 2018 08:31:11 PM EST
