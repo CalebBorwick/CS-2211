@@ -1,0 +1,13 @@
+1a) The software the utilizes and interacts with the computer hardware, as well as manages all aspects of the hardware
+b) The kernel is the central component of most operating systems, it acts as a bridge between applications and the processing done at hardware level
+c) The shell is a command line interpreter and is used as an intermediary between the user and software, the shell provides a basic interface of the system and takes input from the user and executes based on said input
+2a) To create a directory you would use mkdir filename
+b) To create a file you would use vi filename
+3a) To view permission information we would use the command ls -l   
+b) To display permission without contents we would use ls -l di*
+c) When ls * is inputted it will display all subdirectories in the current directory because ls is the list command and the * is the all function so you are saying list all 
+d) The ls ** command will do the same as the ls * command because you are just saying list all still
+4a) In order to find all directories use the command find . -type d  after going to the /usr/bin
+b) In order to find all files starting with "d" we would use the command find . -type f -name "d*" after going to the /usr/bin
+c) In order to find all files that have been created or modified we would use the command find . -mtime -2 after going to the /usr/bin
+

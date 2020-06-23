@@ -1,0 +1,1751 @@
+Script started on Thu 20 Sep 2018 12:11:09 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211
+bash-4.2$ date
+Thu Sep 20 12:11:16 EDT 2018
+bash-4.2$ who am I[K[K[K[K[Kami
+iborwick
+bash-4.2$ cd /usr/bin
+bash-4.2$ pw[K[Kpwd
+/usr/bin
+bash-4.2$ ls -l
+total 219384
+-rwxr-xr-x.   1 root root       41480 Apr 11 00:35 [
+-rwxr-xr-x    1 root root      107856 Aug  2  2017 a2p
+-rwxr-xr-x    1 root root       52720 Jun 27 09:49 ab
+-rwxr-xr-x    1 root root        1661 Nov 20  2015 abs2rel
+-rwxr-xr-x    2 root root       36734 Jun 10  2014 aclocal
+-rwxr-xr-x    2 root root       36734 Jun 10  2014 aclocal-1.13
+-rwxr-xr-x.   1 root root       29200 Jun 27 09:26 addr2line
+-rwxr-xr-x    1 root root       39312 Nov 20  2015 afm2tfm
+-rwxr-xr-x.   1 root root          29 Apr 10 20:53 alias
+lrwxrwxrwx    1 root root          52 Sep 10 16:03 allcm -> /usr/share/texlive/texmf-dist/scripts/tetex/allcm.sh
+lrwxrwxrwx    1 root root           5 Sep 10 16:03 allec -> allcm
+lrwxrwxrwx    1 root root          56 Sep 10 16:03 allneeded -> /usr/share/texlive/texmf-dist/scripts/tetex/allneeded.sh
+-rwxr-xr-x    1 root root     5377816 Nov 15  2017 alpine
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 animate
+-rwxr-xr-x    1 root root       10175 Jul  8  2013 ant
+-rwxr-xr-x    1 root root         861 Jul  8  2013 antRun
+-rwxr-xr-x    1 root root        2199 Jul  8  2013 antRun.pl
+lrwxrwxrwx    1 root root          30 Sep 10 17:01 appletviewer -> /etc/alternatives/appletviewer
+lrwxrwxrwx.   1 root root           6 Sep 12  2017 apropos -> whatis
+-rwxr-xr-x.   1 root root       62728 Jun 27 09:26 ar
+-rwxr-xr-x.   1 root root       33080 Apr 11 00:35 arch
+-rwxr-xr-x.   1 root root      378080 Jun 27 09:26 as
+-rwxr-xr-x    1 root root       28808 Apr 10 22:25 aserver
+-rwxr-xr-x.   1 root root       14554 Apr 11 12:10 audit2allow
+lrwxrwxrwx.   1 root root          11 Aug 27 09:52 audit2why -> audit2allow
+-rwxr-xr-x.   1 root root       15856 Aug 16 10:39 aulast
+-rwxr-xr-x.   1 root root       11624 Aug 16 10:39 aulastlog
+-rwxr-xr-x.   1 root root       11448 Aug 16 10:39 ausyscall
+-rwxr-xr-x    1 root root       14768 Jun 10  2014 autoconf
+-rwxr-xr-x    1 root root        8534 Jun 10  2014 autoheader
+-rwxr-xr-x    1 root root       32181 Jun 10  2014 autom4te
+-rwxr-xr-x    2 root root      252350 Jun 10  2014 automake
+-rwxr-xr-x    2 root root      252350 Jun 10  2014 automake-1.13
+-rwxr-xr-x    1 root root       26572 Aug  2  2017 autopoint
+-rwxr-xr-x    1 root root       21066 Jun 10  2014 autoreconf
+-rwxr-xr-x    1 root root       17123 Jun 10  2014 autoscan
+-rwxr-xr-x    1 root root       33872 Jun 10  2014 autoupdate
+-rwxr-xr-x.   1 root root       32704 Aug 16 10:39 auvirt
+lrwxrwxrwx.   1 root root           4 Sep 12  2017 awk -> gawk
+-rwxr-xr-x.   1 root root       37352 Apr 11 00:35 base64
+-rwxr-xr-x.   1 root root       29032 Apr 11 00:35 basename
+-rwxr-xr-x.   1 root root      964544 Apr 10 20:53 bash
+lrwxrwxrwx.   1 root root          10 Aug 27 09:51 bashbug -> bashbug-64
+-rwxr-xr-x.   1 root root        6964 Apr 10 20:52 bashbug-64
+-rwxr-xr-x    1 root root       83424 Jun  9  2014 bc
+-rwxr-xr-x    1 root root       11352 Nov 22  2015 bdftopcf
+-rwxr-xr-x    1 root root       11376 Nov 22  2015 bdftruncate
+-rwxr-xr-x.   1 root root          26 Apr 10 20:53 bg
+-rwxr-xr-x    1 root root      108376 Nov 20  2015 bibtex
+-rwxr-xr-x    1 root root      402744 Aug  1  2017 bison
+-rwxr-xr-x.   1 root root       23289 Mar 17  2017 bond2team
+-rwxr-xr-x.   1 root root       74880 Aug 16 14:35 bootctl
+-rwxr-xr-x    1 root root        1537 Nov 20  2015 build-classpath
+-rwxr-xr-x    1 root root         383 Nov 20  2015 build-classpath-directory
+-rwxr-xr-x    1 root root        1571 Nov 20  2015 build-jar-repository
+lrwxrwxrwx    1 root root           5 Aug 30 11:44 bunzip2 -> bzip2
+-rwxr-xr-x.   1 root root      408824 Aug 16 14:35 busctl
+lrwxrwxrwx    1 root root           4 Sep 10 16:01 byacc -> yacc
+lrwxrwxrwx    1 root root           5 Aug 30 11:44 bzcat -> bzip2
+lrwxrwxrwx    1 root root           6 Aug 30 11:44 bzcmp -> bzdiff
+-rwxr-xr-x    1 root root        2128 Nov 20  2015 bzdiff
+-rwxr-xr-x    1 root root        1677 Nov 20  2015 bzgrep
+-rwxr-xr-x    1 root root       32656 Nov 20  2015 bzip2
+-rwxr-xr-x    1 root root       15608 Nov 20  2015 bzip2recover
+lrwxrwxrwx    1 root root           6 Aug 30 11:44 bzless -> bzmore
+-rwxr-xr-x    1 root root        1259 Nov 20  2015 bzmore
+-rwxr-xr-x    4 root root      772720 May 15 17:52 c++
+-rwxr-xr-x    2 root root       36607 Aug  2  2017 c2ph
+-rwxr-xr-x    1 root root         224 May 15 17:51 c89
+-rwxr-xr-x    1 root root         215 May 15 17:51 c99
+-rwxr-xr-x    1 root root     2999840 Dec  1  2016 cabal
+-rwxr-xr-x    1 root root       71600 Aug  3  2017 cairo-sphinx
+-rwxr-xr-x.   1 root root       33616 Aug 16 14:47 cal
+-rwxr-xr-x.   1 root root        1638 May 14 10:10 ca-legacy
+lrwxrwxrwx.   1 root root           3 Aug 27 09:51 captoinfo -> tic
+-rwxr-xr-x.   1 root root       54080 Apr 11 00:35 cat
+-rwxr-xr-x.   1 root root        3336 Apr 10 03:57 catchsegv
+-rwxr-xr-x.   1 root root       37528 Jun  9  2014 catman
+lrwxrwxrwx    1 root root           3 Sep 10 16:00 cc -> gcc
+-rwxr-xr-x    1 root root       49640 Nov  5  2016 ccache-swig
+-rwxr-xr-x.   1 root root          26 Apr 10 20:53 cd
+-rwxr-xr-x.   1 root root        6280 Aug 14 18:26 centrino-decode
+-rwxr-xr-x.   1 root root      153696 May 16 00:43 certmaster-getcert
+-rwxr-xr-x.   1 root root      171624 May 16 11:20 certutil
+-rwxr-xr-x.   1 root root       28664 Jun 27 09:26 c++filt
+-rwxr-xr-x.   1 root root       15640 Apr 10 20:41 chacl
+-rwsr-xr-x.   1 root root       64240 Nov  5  2016 chage
+-rwxr-xr-x    1 root root         693 Aug 23  2017 chainsaw
+-rwxr-xr-x.   1 root root         307 Jul 22  2015 chardetect
+-rwxr-xr-x.   1 root root       11616 May 16 00:51 chattr
+-rwxr-xr-x.   1 root root       13430 Apr 11 12:10 chcat
+-rwxr-xr-x.   1 root root       62928 Apr 11 00:35 chcon
+-rwxr-xr-x    1 root root        3328 Nov 20  2015 check-binary-files
+-rwxr-xr-x    1 root root        9211 Jun  9  2014 checkmk
+-rwxr-xr-x.   1 root root      410048 Apr 11 12:02 checkmodule
+-rwxr-xr-x.   1 root root      422312 Apr 11 12:02 checkpolicy
+-rwxr-xr-x    1 root root        7168 Nov  5  2016 checksctp
+-rws--x--x.   1 root root       24048 Aug 16 14:47 chfn
+-rwxr-xr-x.   1 root root       62792 Apr 11 00:35 chgrp
+-rwxr-xr-x.   1 root root       41464 Aug 16 14:47 chmem
+-rwxr-xr-x.   1 root root       58584 Apr 11 00:35 chmod
+-rwxr-xr-x.   1 root root       62840 Apr 11 00:35 chown
+-rwxr-xr-x.   1 root root       87104 Apr 12 13:37 chronyc
+-rwxr-xr-x.   1 root root       32992 Aug 16 14:47 chrt
+-rws--x--x.   1 root root       23960 Aug 16 14:47 chsh
+-rwxr-xr-x.   1 root root       11408 Aug  2  2017 chvt
+-rwxr-xr-x    1 root root         801 Jun 10  2014 ci
+-rwxr-xr-x.   1 root root       33136 Apr 11 00:35 cksum
+-rwxr-xr-x    1 root root       13220 Nov 20  2015 clean-binary-files
+-rwxr-xr-x.   1 root root        7192 Sep  6  2017 clear
+-rwxr-xr-x.   1 root root         316 Jun 27 09:37 cloud-init
+-rwxr-xr-x.   1 root root        1781 Dec 23  2016 cloud-init-per
+-rwxr-xr-x    1 root root       54544 Aug 23 11:03 clusterdb
+-rwxr-xr-x.   1 root root       45184 Jun 10  2014 cmp
+-rwxr-xr-x.   1 root root      104952 May 16 11:20 cmsutil
+-rwxr-xr-x    1 root root         801 Jun 10  2014 co
+-rwxr-xr-x.   1 root root       24504 Aug 16 14:47 col
+-rwxr-xr-x.   1 root root       11632 Aug 16 14:47 colcrt
+-rwxr-xr-x.   1 root root       20288 Aug 16 14:47 colrm
+-rwxr-xr-x.   1 root root       28680 Aug 16 14:47 column
+lrwxrwxrwx    1 root root           9 Sep 10 16:01 combinediff -> interdiff
+-rwxr-xr-x.   1 root root       37408 Apr 11 00:35 comm
+-rwxr-xr-x.   1 root root          31 Apr 10 20:53 command
+-rwxr-xr-x    1 root root       11320 Jun 16  2016 compare
+-rwxr-xr-x    1 root root        1480 May 16 00:50 compile_et
+-rwxr-xr-x    1 root root        3223 Jul  8  2013 complete-ant-cmd.pl
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 composite
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 conjure
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 convert
+-rwxr-xr-x.   1 root root      158328 Aug 16 14:35 coredumpctl
+-rwxr-xr-x.   1 root root      155176 Apr 11 00:35 cp
+-rwxr-xr-x.   1 root root      145960 Apr 10 19:51 cpio
+-rwxr-xr-x    1 root root      772720 May 15 17:52 cpp
+-rwxr-xr-x.   1 root root       67928 Aug 14 18:26 cpupower
+-rwxr-xr-x    1 root root       54592 Aug 23 11:03 createdb
+-rwxr-xr-x    1 root root        4657 Nov 20  2015 create-jar-links
+-rwxr-xr-x    1 root root       58552 Aug 23 11:03 createlang
+-rwxr-xr-x    1 root root       59072 Aug 23 11:03 createuser
+-rwxr-xr-x.   1 root root      117696 May 16 11:20 crlutil
+-rwsr-xr-x.   1 root root       57576 Apr 10 21:48 crontab
+-rwxr-xr-x    1 root root      671944 Aug  4  2017 cscope
+-rwxr-xr-x    1 root root        3858 Jun 28  2001 cscope-indexer
+lrwxrwxrwx    1 root root           4 Aug 27 11:25 csh -> tcsh
+-rwxr-xr-x.   1 root root       49992 Apr 11 00:35 csplit
+-rwxr-xr-x.   1 root root       20024 Aug  2  2017 csslint-0.6
+-rwxr-xr-x    1 root root      243704 Jun  9  2014 ctags
+-rwxr-xr-x.   1 root root      156736 Apr 12 13:39 curl
+-rwxr-xr-x.   1 root root       41568 Apr 11 00:35 cut
+-rwxr-xr-x    1 root root      693408 Jun 10  2014 cvs
+-rwxr-xr-x    1 root root       14032 Jun 10  2014 cvsbug
+-rwxr-xr-x.   1 root root       62200 Apr 11 00:35 date
+-rwxr-xr-x.   1 root root       11488 Apr 11 01:31 db_archive
+-rwxr-xr-x.   1 root root       11576 Apr 11 01:31 db_checkpoint
+-rwxr-xr-x.   1 root root       15672 Apr 11 01:31 db_deadlock
+-rwxr-xr-x.   1 root root       15688 Apr 11 01:31 db_dump
+-rwxr-xr-x.   1 root root       65992 Apr 11 01:31 db_dump185
+-rwxr-xr-x.   1 root root       15704 Apr 11 01:31 db_hotbackup
+-rwxr-xr-x.   1 root root       28152 Apr 11 01:31 db_load
+-rwxr-xr-x.   1 root root       15704 Apr 11 01:31 db_log_verify
+-rwxr-xr-x.   1 root root       33016 Apr 11 01:31 db_printlog
+-rwxr-xr-x.   1 root root       11600 Apr 11 01:31 db_recover
+-rwxr-xr-x.   1 root root       15704 Apr 11 01:31 db_replicate
+-rwxr-xr-x.   1 root root       15616 Apr 11 01:31 db_stat
+-rwxr-xr-x.   1 root root       19792 Apr 11 01:31 db_tuner
+-rwxr-xr-x.   1 root root       11504 Apr 11 01:31 db_upgrade
+-rwxr-xr-x.   1 root root       96760 Jun 10  2014 dbus-binding-tool
+-rwxr-xr-x.   1 root root       11336 Apr 11 03:23 dbus-cleanup-sockets
+-rwxr-xr-x.   1 root root      223344 Apr 11 03:23 dbus-daemon
+-rwxr-xr-x.   1 root root       23760 Apr 11 03:23 dbus-monitor
+-rwxr-xr-x.   1 root root       15408 Apr 11 03:23 dbus-run-session
+-rwxr-xr-x.   1 root root       27800 Apr 11 03:23 dbus-send
+-rwxr-xr-x.   1 root root       23768 Apr 11 03:23 dbus-test-tool
+-rwxr-xr-x.   1 root root       15480 Apr 11 03:23 dbus-update-activation-environment
+-rwxr-xr-x.   1 root root       11328 Apr 11 03:23 dbus-uuidgen
+-rwxr-xr-x.   1 root root       11520 Apr 11 01:31 db_verify
+-rwxr-xr-x    1 root root       45392 Jun  9  2014 dc
+-rwxr-xr-x    1 root root       45888 Aug  2  2017 dconf
+-rwxr-xr-x.   1 root root       74896 Apr 11 00:35 dd
+-rwxr-xr-x.   1 root root       11424 Aug  2  2017 deallocvt
+-rwxr-xr-x.   1 root root        8071 Jul 30 12:13 debuginfo-install
+-rwxr-xr-x    1 root root        1351 Jun  9  2014 dehtmldiff
+lrwxrwxrwx    1 root root          20 Sep 10 16:01 desktop-file-edit -> desktop-file-install
+-rwxr-xr-x    1 root root       76424 Aug  2  2017 desktop-file-install
+-rwxr-xr-x    1 root root       64096 Aug  2  2017 desktop-file-validate
+-rwxr-xr-x.   1 root root      100896 Apr 11 00:35 df
+-rwxr-xr-x.   1 root root      514168 Jun 28  2017 dgawk
+-rwxr-xr-x.   1 root root      200104 Jun 10  2014 diff
+-rwxr-xr-x.   1 root root       62072 Jun 10  2014 diff3
+-rwxr-xr-x    1 root root        1236 Nov 20  2015 diff-jars
+-rwxr-xr-x    1 root root       36616 Jun  9  2014 diffstat
+-rwxr-xr-x.   1 root root      129536 Apr 12 14:48 dig
+-rwxr-xr-x.   1 root root      117672 Apr 11 00:35 dir
+-rwxr-xr-x.   1 root root       41416 Apr 11 00:35 dircolors
+-rwxr-xr-x.   1 root root       28992 Apr 11 00:35 dirname
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 display
+-rwxr-xr-x.   1 root root       49728 Aug 16 14:47 dmesg
+lrwxrwxrwx.   1 root root           8 Sep 12  2017 dnsdomainname -> hostname
+lrwxrwxrwx.   1 root root           8 Sep 12  2017 domainname -> hostname
+-rwxr-xr-x    1 root root       15824 Jun 10  2014 dotlockfile
+-rwxr-xr-x    1 root root     8885408 Jun  9  2014 doxygen
+-rwxr-xr-x.   1 root root       54444 Aug 16 10:45 dracut
+-rwxr-xr-x    1 root root       54448 Aug 23 11:03 dropdb
+-rwxr-xr-x    1 root root       58520 Aug 23 11:03 droplang
+-rwxr-xr-x    1 root root       54400 Aug 23 11:03 dropuser
+-rwxr-xr-x    1 root root       17031 Jun 27 14:08 dtrace
+-rwxr-xr-x.   1 root root      112960 Apr 11 00:35 du
+-rwxr-xr-x.   1 root root       79360 Aug  2  2017 dumpkeys
+-rwxr-xr-x    1 root root       15544 Aug  2  2017 dumpsexp
+lrwxrwxrwx    1 root root          54 Sep 10 16:03 dvi2fax -> /usr/share/texlive/texmf-dist/scripts/tetex/dvi2fax.sh
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 dvilualatex -> luatex
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 dviluatex -> luatex
+-rwxr-xr-x    1 root root        1026 Sep  6  2017 dvipdf
+lrwxrwxrwx    1 root root           8 Sep 10 16:03 dvipdfm -> dvipdfmx
+-rwxr-xr-x    1 root root      617536 Nov 20  2015 dvipdfmx
+-rwxr-xr-x    1 root root        2688 Nov 20  2015 dvipdft
+-rwxr-xr-x    1 root root      204808 Nov 20  2015 dvips
+lrwxrwxrwx    1 root root          53 Sep 10 16:03 dvired -> /usr/share/texlive/texmf-dist/scripts/tetex/dvired.sh
+-rwxr-xr-x.   1 root root     3178240 Jun 27 09:26 dwp
+-rwxr-xr-x    1 root root      166504 Jun  9  2014 dwz
+-rwxr-xr-x.   1 root root         320 Aug  2  2017 easy_install
+-rwxr-xr-x.   1 root root         328 Aug  2  2017 easy_install-2.7
+lrwxrwxrwx    1 root root           8 Sep 10 16:03 ebb -> dvipdfmx
+-rwxr-xr-x    1 root root       45360 Sep 20  2017 ebrowse
+-rwxr-xr-x.   1 root root       33072 Apr 11 00:35 echo
+-rwxr-xr-x    1 root root      755616 Aug 23 11:03 ecpg
+-rwxr-xr-x    1 root root        2047 Jun  9  2014 editdiff
+-rwxr-xr-x.   1 root root         290 Aug  3  2017 egrep
+-rwxr-xr-x.   1 root root       50048 Aug 16 14:47 eject
+-rwxr-xr-x.   1 root root       33048 Jun 27 09:26 elfedit
+lrwxrwxrwx    1 root root          23 Sep 10 16:01 emacs -> /etc/alternatives/emacs
+-rwxr-xr-t    1 root root    14784568 Sep 20  2017 emacs-24.3
+-rwxr-xr-x    1 root root       24824 Sep 20  2017 emacsclient
+-rwxr-xr-x.   1 root root       28992 Apr 11 00:35 env
+-rwxr-xr-x.   1 root root       36872 Aug  2  2017 envsubst
+-rwxr-xr-x    1 root root         638 Sep  6  2017 eps2eps
+-rwxr-xr-x.   1 root root      147880 Jun  9  2014 eqn
+-rwxr-xr-x    1 root root        4393 Mar  2  2018 erb
+-rwxr-xr-x    1 root root        1563 Jun  9  2014 espdiff
+lrwxrwxrwx    1 root root          29 Sep 10 16:01 etags -> /etc/alternatives/emacs.etags
+-rwxr-xr-x    1 root root      103400 Sep 20  2017 etags.emacs
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 etex -> pdftex
+-rwxr-xr-x    1 root root       24208 Apr 11 01:10 eu-addr2line
+-rwxr-xr-x    1 root root       36824 Apr 11 01:10 eu-ar
+-rwxr-xr-x    1 root root       32896 Apr 11 01:10 eu-elfcmp
+-rwxr-xr-x    1 root root       28272 Apr 11 01:10 eu-elfcompress
+-rwxr-xr-x    1 root root      111408 Apr 11 01:10 eu-elflint
+-rwxr-xr-x    1 root root       20016 Apr 11 01:10 eu-findtextrel
+-rwxr-xr-x    1 root root        2911 Apr 11 01:10 eu-make-debug-archive
+-rwxr-xr-x    1 root root       45984 Apr 11 01:10 eu-nm
+-rwxr-xr-x    1 root root       33240 Apr 11 01:10 eu-objdump
+-rwxr-xr-x    1 root root       20048 Apr 11 01:10 eu-ranlib
+-rwxr-xr-x    1 root root      186488 Apr 11 01:10 eu-readelf
+-rwxr-xr-x    1 root root       19888 Apr 11 01:10 eu-size
+-rwxr-xr-x    1 root root       28304 Apr 11 01:10 eu-stack
+-rwxr-xr-x    1 root root       20064 Apr 11 01:10 eu-strings
+-rwxr-xr-x    1 root root       53952 Apr 11 01:10 eu-strip
+-rwxr-xr-x    1 root root       45264 Apr 11 01:10 eu-unstrip
+lrwxrwxrwx.   1 root root           2 Aug 27 09:51 ex -> vi
+-rwxr-xr-x.   1 root root       33240 Apr 11 00:35 expand
+-rwxr-xr-x.   1 root root       37432 Apr 11 00:35 expr
+lrwxrwxrwx    1 root root           8 Sep 10 16:03 extractbb -> dvipdfmx
+lrwxrwxrwx    1 root root           8 Sep 10 16:00 f95 -> gfortran
+-rwxr-xr-x.   1 root root       95520 Apr 11 00:35 factor
+-rwxr-xr-x.   1 root root       13922 Jul 13  2017 fail2ban-client
+lrwxrwxrwx.   1 root root          15 Aug 27 09:56 fail2ban-python -> /usr/bin/python
+-rwxr-xr-x.   1 root root        1283 Jul 13  2017 fail2ban-regex
+-rwxr-xr-x.   1 root root        4371 Jul 13  2017 fail2ban-server
+-rwxr-xr-x.   1 root root       24408 Aug 16 14:47 fallocate
+-rwxr-xr-x.   1 root root       28920 Apr 11 00:35 false
+-rwxr-xr-x.   1 root root          26 Apr 10 20:53 fc
+-rwxr-xr-x    1 root root       15736 Aug  2  2017 fc-cache
+-rwxr-xr-x    1 root root       15672 Aug  2  2017 fc-cat
+-rwxr-xr-x    1 root root       11432 Aug  2  2017 fc-list
+-rwxr-xr-x    1 root root       11504 Aug  2  2017 fc-match
+-rwxr-xr-x    1 root root       11432 Aug  2  2017 fc-pattern
+-rwxr-xr-x    1 root root       11392 Aug  2  2017 fc-query
+-rwxr-xr-x    1 root root       11432 Aug  2  2017 fc-scan
+-rwxr-xr-x    1 root root       11464 Aug  2  2017 fc-validate
+lrwxrwxrwx    1 root root          31 Sep 10 16:04 fd2c -> ../lib64/gprolog-1.4.4/bin/fd2c
+-rwxr-xr-x.   1 root root          26 Apr 10 20:53 fg
+-rwxr-xr-x.   1 root root       11432 Aug  2  2017 fgconsole
+-rwxr-xr-x.   1 root root         290 Aug  3  2017 fgrep
+-rwxr-xr-x.   1 root root       19768 Nov  5  2016 file
+-rwxr-xr-x    1 root root       46256 Jun  9  2014 filterdiff
+-rwxr-xr-x.   1 root root      199200 Nov 20  2015 find
+-rwxr-xr-x    1 root root       23614 Aug  2  2017 find2perl
+-rwxr-xr-x    1 root root         748 Nov 20  2015 find-jar
+-rwxr-xr-x.   1 root root       59776 Aug 16 14:47 findmnt
+-rwxr-xr-x.   1 root root        4371 Jul 30 12:13 find-repos-of-install
+-rwxr-xr-x    1 root root       28424 Aug 29  2014 finger
+-rwxr-xr-x.   1 root root       15736 Aug  2  2017 fipscheck
+-rwxr-xr-x.   1 root root       11576 Aug  2  2017 fipshmac
+-rwxr-xr-x    1 root root     1378056 Jul  7  2016 fish
+-rwxr-xr-x    1 root root     1266528 Jul  7  2016 fish_indent
+-rwxr-xr-x    1 root root     1378016 Jul  7  2016 fish_key_reader
+-rwxr-xr-x    1 root root        1870 Jun  9  2014 fixcvsdiff
+-rwxr-xr-x    2 root root        6340 Apr 12 14:49 fixqt4headers.pl
+-rwxr-xr-x    1 root root      329664 Jun  9  2014 flex
+lrwxrwxrwx    1 root root           4 Sep 10 16:01 flex++ -> flex
+lrwxrwxrwx    1 root root           9 Sep 10 16:01 flipdiff -> interdiff
+-rwxr-xr-x.   1 root root       24504 Aug 16 14:47 flock
+-rwxr-xr-x.   1 root root       37360 Apr 11 00:35 fmt
+lrwxrwxrwx    1 root root          49 Sep 10 16:03 fmtutil -> /usr/share/texlive/texmf/scripts/tetex/fmtutil.sh
+lrwxrwxrwx    1 root root          53 Sep 10 16:03 fmtutil-sys -> /usr/share/texlive/texmf/scripts/tetex/fmtutil-sys.sh
+-rwxr-xr-x.   1 root root       37320 Apr 11 00:35 fold
+-rwxr-xr-x    1 root root         311 Sep  6  2017 font2c
+-rwxr-xr-x    1 root root       36752 Nov 22  2015 fonttosfnt
+-rwxr-xr-x.   1 root root       19856 May 24 11:32 free
+-rwxr-xr-x    1 root root        3894 Aug  2  2017 freetype-config
+-rwxr-xr-x    1 root root       32128 Apr 11 01:24 funzip
+-rwxr-xr-x    4 root root      772720 May 15 17:52 g++
+-rwxr-xr-x.   1 root root       19944 Apr 10 23:54 gapplication
+-rwxr-xr-x.   1 root root      428584 Jun 28  2017 gawk
+-rwxr-xr-x    2 root root      768624 May 15 17:52 gcc
+-rwxr-xr-x    1 root root       27136 May 15 17:52 gcc-ar
+-rwxr-xr-x    1 root root       27136 May 15 17:52 gcc-nm
+-rwxr-xr-x    1 root root       27144 May 15 17:52 gcc-ranlib
+-rwxr-xr-x    1 root root       58216 Jun 10  2014 gconf-merge-tree
+-rwxr-xr-x    1 root root       62008 Jun 10  2014 gconftool-2
+-rwxr-xr-x    1 root root        2175 Apr 11 01:18 gcore
+-rwxr-xr-x    1 root root      314904 May 15 17:52 gcov
+-rwxr-xr-x    1 root root      103632 Sep 20  2017 gctags
+-rwxr-xr-x    1 root root     6814032 Apr 11 01:19 gdb
+-rwxr-xr-x    1 root root        1118 Apr 11 01:18 gdb-add-index
+-rwxr-xr-x.   1 root root       41104 Apr 10 23:54 gdbus
+-rwxr-xr-x    1 root root        2050 Apr 10 23:53 gdbus-codegen
+-rwxr-xr-x    1 root root       11528 Aug  5  2017 gdk-pixbuf-query-loaders-64
+-rwxr-xr-x    1 root root       20048 Aug  5  2017 gdk-pixbuf-thumbnailer
+-rwxr-xr-x    1 root root         542 Mar  2  2018 gem
+-rwxr-xr-x.   1 root root       23064 Apr 10 04:24 gencat
+-rwxr-xr-x    1 root root         586 Apr 10 23:54 gendiff
+-rwxr-xr-x.   2 root root       11544 Aug  3  2017 genl-ctrl-list
+-rwxr-xr-x.   1 root root       15648 Nov  5  2016 geoiplookup
+-rwxr-xr-x.   1 root root       11432 Nov  5  2016 geoiplookup6
+-rwxr-xr-x.   1 root root       11496 Nov  5  2016 geoipupdate
+lrwxrwxrwx.   1 root root           3 Sep 12  2017 geqn -> eqn
+-rwxr-xr-x.   1 root root      166240 May 16 00:43 getcert
+-rwxr-xr-x.   1 root root       22848 Apr 10 04:24 getconf
+-rwxr-xr-x.   1 root root       27832 Apr 10 04:24 getent
+-rwxr-xr-x.   1 root root       24872 Apr 10 20:41 getfacl
+-rwxr-xr-x.   1 root root       11424 Aug  2  2017 getkeycodes
+-rwxr-xr-x.   1 root root       15832 Aug 16 14:47 getopt
+-rwxr-xr-x.   1 root root          31 Apr 10 20:53 getopts
+-rwxr-xr-x.   1 root root       36800 Aug  2  2017 gettext
+-rwxr-xr-x    1 root root       43718 Aug  2  2017 gettextize
+-rwxr-xr-x.   1 root root        4629 Aug  2  2017 gettext.sh
+-rwxr-xr-x    1 root root      772728 May 15 17:52 gfortran
+-rwxr-xr-x    1 root root       44992 Nov 20  2015 gftodvi
+-rwxr-xr-x    1 root root       28272 Nov 20  2015 gftopk
+-rwxr-xr-x    1 root root       28232 Nov 20  2015 gftype
+lrwxrwxrwx    1 root root           9 Sep 10 16:04 ghc -> ghc-7.6.3
+-rwxr-xr-x    1 root root         238 Oct 26  2016 ghc-7.6.3
+-rwxr-xr-x    1 root root         894 Oct 26  2016 ghc-doc-index
+lrwxrwxrwx    1 root root          10 Sep 10 16:04 ghci -> ghci-7.6.3
+-rwxr-xr-x    1 root root          60 Oct 26  2016 ghci-7.6.3
+lrwxrwxrwx    1 root root          13 Sep 10 16:04 ghc-pkg -> ghc-pkg-7.6.3
+-rwxr-xr-x    1 root root         270 Oct 26  2016 ghc-pkg-7.6.3
+lrwxrwxrwx    1 root root           2 Sep 10 16:01 ghostscript -> gs
+-rwxr-xr-x.   1 root root       75176 Apr 10 23:54 gio
+-rwxr-xr-x.   1 root root       11520 Apr 10 23:54 gio-querymodules-64
+-rwxr-xr-x  113 root root     1523776 Jun 22 10:02 git
+-rwxr-xr-x  113 root root     1523776 Jun 22 10:02 git-receive-pack
+-rwxr-xr-x    2 root root      735200 Jun 22 10:02 git-shell
+-rwxr-xr-x  113 root root     1523776 Jun 22 10:02 git-upload-archive
+-rwxr-xr-x    2 root root      810440 Jun 22 10:02 git-upload-pack
+-rwxr-xr-x    1 root root       41208 Apr 10 23:54 glib-compile-resources
+-rwxr-xr-x.   1 root root       45448 Apr 10 23:54 glib-compile-schemas
+-rwxr-xr-x    1 root root       40534 Apr 10 23:53 glib-genmarshal
+-rwxr-xr-x    1 root root        5371 Apr 10 23:53 glib-gettextize
+-rwxr-xr-x    1 root root       26548 Apr 10 23:53 glib-mkenums
+-rwxr-xr-x    1 root root       24256 Nov  5  2016 glxgears
+-rwxr-xr-x    1 root root       40864 Nov  5  2016 glxinfo
+-rwxr-xr-x    1 root root       40864 Nov  5  2016 glxinfo64
+lrwxrwxrwx.   1 root root           4 Sep 12  2017 gmake -> make
+lrwxrwxrwx.   1 root root           4 Sep 12  2017 gneqn -> neqn
+lrwxrwxrwx.   1 root root           5 Sep 12  2017 gnroff -> nroff
+-rwxr-xr-x    1 root root       11392 Apr 10 23:54 gobject-query
+-rwsr-xr-x.   1 root root       78216 Nov  5  2016 gpasswd
+lrwxrwxrwx.   1 root root           4 Aug 27 09:51 gpg -> gpg2
+-rwxr-xr-x.   1 root root      749976 Jul 13 09:05 gpg2
+-rwxr-xr-x.   1 root root      296696 Jul 13 09:05 gpg-agent
+-rwxr-xr-x.   1 root root      143680 Jul 13 09:05 gpgconf
+-rwxr-xr-x.   1 root root      156352 Jul 13 09:05 gpg-connect-agent
+-rwxr-xr-x.   1 root root       23736 Jun 10  2014 gpg-error
+-rwxr-xr-x    1 root root        1877 Jun 10  2014 gpg-error-config
+-rwxr-xr-x.   1 root root       24272 Jul 13 09:05 gpgparsemail
+-rwxr-xr-x.   1 root root       50056 Jul 13 09:05 gpgsplit
+lrwxrwxrwx.   1 root root           5 Aug 27 09:51 gpgv -> gpgv2
+-rwxr-xr-x.   1 root root      353672 Jul 13 09:05 gpgv2
+-rwxr-xr-x.   1 root root        3307 Jul 13 09:05 gpg-zip
+lrwxrwxrwx.   1 root root           3 Sep 12  2017 gpic -> pic
+lrwxrwxrwx    1 root root          31 Sep 10 16:04 gplc -> ../lib64/gprolog-1.4.4/bin/gplc
+-rwxr-xr-x.   1 root root      100824 Jun 27 09:26 gprof
+lrwxrwxrwx    1 root root          34 Sep 10 16:04 gprolog -> ../lib64/gprolog-1.4.4/bin/gprolog
+-rwxr-xr-x    1 root root       24224 Jul 21  2017 gr2fonttest
+-rwxr-xr-x.   1 root root      159024 Aug  3  2017 grep
+-rwxr-xr-x    1 root root        7168 Jan  1  2013 grep-changelog
+lrwxrwxrwx    1 root root          10 Sep 10 16:01 grepdiff -> filterdiff
+-rwxr-xr-x    1 root root       20016 Apr 10 23:54 gresource
+-rwxr-xr-x.   1 root root       83584 Jun  9  2014 groff
+-rwxr-xr-x.   1 root root      144232 Jun  9  2014 grops
+-rwxr-xr-x.   1 root root      100952 Jun  9  2014 grotty
+-rwxr-xr-x.   1 root root       33200 Apr 11 00:35 groups
+-rwxr-xr-x.   1 root root       21428 Aug  3  2017 growpart
+-rwxr-xr-x.   1 root root      401376 Oct 21  2017 grub2-editenv
+-rwxr-xr-x.   1 root root      833792 Oct 21  2017 grub2-file
+-rwxr-xr-x.   1 root root     1062680 Oct 21  2017 grub2-fstest
+-rwxr-xr-x.   1 root root      260808 Oct 21  2017 grub2-glue-efi
+-rwxr-xr-x.   1 root root        1668 Oct 21  2017 grub2-kbdcomp
+-rwxr-xr-x.   1 root root      243440 Oct 21  2017 grub2-menulst2cfg
+-rwxr-xr-x.   1 root root      290336 Oct 21  2017 grub2-mkfont
+-rwxr-xr-x.   1 root root      384032 Oct 21  2017 grub2-mkimage
+-rwxr-xr-x.   1 root root      267072 Oct 21  2017 grub2-mklayout
+-rwxr-xr-x.   1 root root      431200 Oct 21  2017 grub2-mknetdir
+-rwxr-xr-x.   1 root root      273648 Oct 21  2017 grub2-mkpasswd-pbkdf2
+-rwxr-xr-x.   1 root root      260496 Oct 21  2017 grub2-mkrelpath
+-rwxr-xr-x.   1 root root     1021568 Oct 21  2017 grub2-mkrescue
+-rwxr-xr-x.   1 root root      534616 Oct 21  2017 grub2-mkstandalone
+-rwxr-xr-x.   1 root root      842792 Oct 21  2017 grub2-render-label
+-rwxr-xr-x.   1 root root      298312 Oct 21  2017 grub2-script-check
+-rwxr-xr-x.   1 root root      769512 Oct 21  2017 grub2-syslinux2cfg
+-rwxr-xr-x    1 root root       11368 Sep  6  2017 gs
+-rwxr-xr-x    1 root root         350 Sep  6  2017 gsbj
+-rwxr-xr-x    1 root root         352 Sep  6  2017 gsdj
+-rwxr-xr-x    1 root root         352 Sep  6  2017 gsdj500
+-rwxr-xr-x.   1 root root       24352 Apr 10 23:54 gsettings
+-rwxr-xr-x    1 root root       20248 Jun 10  2014 gsettings-data-convert
+-rwxr-xr-x    1 root root       28528 Nov 20  2015 gsftopk
+-rwxr-xr-x    1 root root         353 Sep  6  2017 gslj
+-rwxr-xr-x    1 root root         350 Sep  6  2017 gslp
+-rwxr-xr-x    1 root root         277 Sep  6  2017 gsnd
+lrwxrwxrwx.   1 root root           6 Sep 12  2017 gsoelim -> soelim
+-rwxr-xr-x    1 root root       23808 May  9 09:48 gss-client
+-rwxr-xr-x    1 root root        1073 Apr 11 01:18 gstack
+-rwxr-xr-x    1 root root       16000 Jun  9  2014 gst-feedback
+-rwxr-xr-x    1 root root        3173 Jun  9  2014 gst-feedback-0.10
+-rwxr-xr-x    1 root root       16000 Jun  9  2014 gst-inspect
+-rwxr-xr-x    1 root root       45488 Jun  9  2014 gst-inspect-0.10
+-rwxr-xr-x    1 root root       16000 Jun  9  2014 gst-launch
+-rwxr-xr-x    1 root root       36976 Jun  9  2014 gst-launch-0.10
+-rwxr-xr-x    1 root root       16000 Jun  9  2014 gst-typefind
+-rwxr-xr-x    1 root root       15728 Jun  9  2014 gst-typefind-0.10
+-rwxr-xr-x    1 root root       16000 Jun  9  2014 gst-xmlinspect
+-rwxr-xr-x    1 root root       24064 Jun  9  2014 gst-xmlinspect-0.10
+-rwxr-xr-x    1 root root       16000 Jun  9  2014 gst-xmllaunch
+-rwxr-xr-x    1 root root       36976 Jun  9  2014 gst-xmllaunch-0.10
+lrwxrwxrwx.   1 root root           3 Aug 27 09:51 gtar -> tar
+lrwxrwxrwx.   1 root root           3 Sep 12  2017 gtbl -> tbl
+-rwxr-xr-x    1 root root       24208 Apr 10 23:54 gtester
+-rwxr-xr-x    1 root root       18759 Apr 10 23:53 gtester-report
+-rwxr-xr-x    1 root root       15928 May 16 03:59 gtk-launch
+-rwxr-xr-x    1 root root       15896 May 16 03:59 gtk-query-immodules-3.0-64
+-rwxr-xr-x    1 root root       33296 May 16 03:59 gtk-update-icon-cache
+lrwxrwxrwx.   1 root root           5 Sep 12  2017 gtroff -> troff
+-rwxr-xr-x.   1 root root        2253 Apr 10 20:01 gunzip
+-rwxr-xr-x.   1 root root        5931 Apr 10 20:01 gzexe
+-rwxr-xr-x.   1 root root      100800 Apr 10 20:01 gzip
+-rwxr-xr-x    1 root root       28310 Aug  2  2017 h2ph
+-rwxr-xr-x    1 root root       60565 Aug  2  2017 h2xs
+lrwxrwxrwx    1 root root          17 Sep 10 16:04 haddock -> haddock-ghc-7.6.3
+-rwxr-xr-x    1 root root         229 Oct 26  2016 haddock-ghc-7.6.3
+-rwxr-xr-x.   1 root root       41472 Apr 11 00:35 head
+-rwxr-xr-x.   1 root root       11360 Jun  9  2014 hesinfo
+-rwxr-xr-x.   1 root root       32840 Aug 16 14:47 hexdump
+lrwxrwxrwx    1 root root          34 Sep 10 16:04 hexgplc -> ../lib64/gprolog-1.4.4/bin/hexgplc
+-rwxr-xr-x    1 root root        1077 Aug 31  2017 hg
+-rwxr-xr-x    1 root root        3056 Aug 31  2017 hg-ssh
+-rwxr-xr-x    1 root root     1412096 Dec  3  2016 hlint
+-rwxr-xr-x    1 root root       16048 Aug  2  2017 hmac256
+-rwxr-xr-x.   1 root root      113312 Apr 12 14:48 host
+-rwxr-xr-x.   1 root root       28984 Apr 11 00:35 hostid
+-rwxr-xr-x.   1 root root       15768 Jun  9  2014 hostname
+-rwxr-xr-x.   1 root root      325800 Aug 16 14:35 hostnamectl
+-rwxr-xr-x    1 root root       38240 Oct 26  2016 hp2ps
+-rwxr-xr-x    1 root root     1640960 Oct 26  2016 hpc
+lrwxrwxrwx    1 root root          24 Sep 10 16:04 hsc2hs -> /etc/alternatives/hsc2hs
+-rwxr-xr-x    1 root root        1043 Oct 26  2016 hsc2hs-ghc
+-rwxr-xr-x    1 root root       23736 Jun 27 09:49 htdbm
+-rwxr-xr-x    1 root root       15520 Jun 27 09:49 htdigest
+-rwxr-xr-x    1 root root       19640 Jun 27 09:49 htpasswd
+-rwxr-xr-x    1 root root       11344 Jun 27 09:49 httxt2dbm
+-rwxr-xr-x    1 root root       54368 Nov  5  2016 hunspell
+lrwxrwxrwx.   1 root root           7 Aug 27 09:51 i386 -> setarch
+-rwxr-xr-x.   1 root root       60312 Apr 10 04:24 iconv
+-rwxr-xr-x.   1 root root       41480 Apr 11 00:35 id
+-rwxr-xr-x    1 root root      113056 Jun 10  2014 ident
+-rwxr-xr-x    1 root root       11320 Jun 16  2016 identify
+-rwxr-xr-x.   1 root root       11608 Aug  3  2017 idiag-socket-details
+lrwxrwxrwx    1 root root          22 Sep 10 17:01 idlj -> /etc/alternatives/idlj
+-rwxr-xr-x.   1 root root       33232 Nov 21  2015 idn
+-rwxr-xr-x    1 root root        4128 Jun 10  2014 ifnames
+-rwxr-xr-x.   1 root root        3188 Jun 28  2017 igawk
+-rwxr-xr-x    1 root root         896 Sep  6  2017 ijs-config
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 import
+-rwxr-xr-x    1 root root       75592 Jun  9  2014 indent
+-rwxr-xr-x.   1 root root      271552 Apr 10 21:03 info
+-rwxr-xr-x.   1 root root       57416 Sep  6  2017 infocmp
+-rwxr-xr-x.   1 root root       21984 Apr 10 21:03 infokey
+lrwxrwxrwx.   1 root root           3 Aug 27 09:51 infotocap -> tic
+lrwxrwxrwx    1 root root           2 Sep 10 16:03 inimf -> mf
+lrwxrwxrwx    1 root root           3 Sep 10 16:03 initex -> tex
+-rwxr-xr-x.   1 root root      142920 Apr 11 00:35 install
+-rwxr-xr-x    1 root root        4247 Jun  9  2014 instmodsh
+-rwxr-xr-x    1 root root       49856 Jun  9  2014 interdiff
+-rwxr-xr-x    1 root root       28733 Aug  2  2017 intltool-extract
+-rwxr-xr-x    1 root root        7152 Aug  2  2017 intltoolize
+-rwxr-xr-x    1 root root       39804 Aug  2  2017 intltool-merge
+-rwxr-xr-x    1 root root        8605 Aug  2  2017 intltool-prepare
+-rwxr-xr-x    1 root root       35002 Aug  2  2017 intltool-update
+-rwxr-xr-x.   1 root root       24512 Aug 16 14:47 ionice
+-rwxr-xr-x    1 root root         984 Jun 27 09:58 ipa
+-rwxr-xr-x.   1 root root      153688 May 16 00:43 ipa-getcert
+-rwxr-xr-x.   1 root root       15496 Aug 16 10:49 ipcalc
+-rwxr-xr-x.   1 root root       24624 Aug 16 14:47 ipcmk
+-rwxr-xr-x.   1 root root       24464 Aug 16 14:47 ipcrm
+-rwxr-xr-x.   1 root root       49592 Aug 16 14:47 ipcs
+lrwxrwxrwx.   1 root root          23 Aug 27 09:51 iptables-xml -> /usr/sbin/xtables-multi
+-rwxr-xr-x    1 root root         314 Mar  2  2018 irb
+-rwxr-xr-x.   1 root root       24432 Aug 16 14:47 isosize
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 jaotc -> /etc/alternatives/jaotc
+lrwxrwxrwx    1 root root          21 Sep 10 17:01 jar -> /etc/alternatives/jar
+lrwxrwxrwx    1 root root          27 Sep 10 17:01 jarsigner -> /etc/alternatives/jarsigner
+lrwxrwxrwx    1 root root          22 Sep 10 17:01 java -> /etc/alternatives/java
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 javac -> /etc/alternatives/javac
+lrwxrwxrwx    1 root root          25 Sep 10 17:01 javadoc -> /etc/alternatives/javadoc
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 javap -> /etc/alternatives/javap
+lrwxrwxrwx    1 root root          30 Sep 10 17:01 javapackager -> /etc/alternatives/javapackager
+lrwxrwxrwx    1 root root          24 Sep 10 17:01 javaws -> /etc/alternatives/javaws
+lrwxrwxrwx    1 root root          22 Sep 10 17:01 jcmd -> /etc/alternatives/jcmd
+lrwxrwxrwx    1 root root          26 Sep 10 17:01 jconsole -> /etc/alternatives/jconsole
+lrwxrwxrwx    1 root root          26 Sep 10 17:01 jcontrol -> /etc/alternatives/jcontrol
+lrwxrwxrwx    1 root root          21 Sep 10 17:01 jdb -> /etc/alternatives/jdb
+lrwxrwxrwx    1 root root          27 Sep 10 17:01 jdeprscan -> /etc/alternatives/jdeprscan
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 jdeps -> /etc/alternatives/jdeps
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 jhsdb -> /etc/alternatives/jhsdb
+lrwxrwxrwx    1 root root          24 Sep 10 17:01 jimage -> /etc/alternatives/jimage
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 jinfo -> /etc/alternatives/jinfo
+lrwxrwxrwx    1 root root          21 Sep 10 17:01 jjs -> /etc/alternatives/jjs
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 jlink -> /etc/alternatives/jlink
+lrwxrwxrwx    1 root root          22 Sep 10 17:01 jmap -> /etc/alternatives/jmap
+lrwxrwxrwx    1 root root          21 Sep 10 17:01 jmc -> /etc/alternatives/jmc
+lrwxrwxrwx    1 root root          22 Sep 10 17:01 jmod -> /etc/alternatives/jmod
+-rwxr-xr-x.   1 root root          28 Apr 10 20:53 jobs
+-rwxr-xr-x.   1 root root       49896 Apr 11 00:35 join
+-rwxr-xr-x.   1 root root      550880 Aug 16 14:35 journalctl
+lrwxrwxrwx    1 root root          21 Sep 10 17:01 jps -> /etc/alternatives/jps
+lrwxrwxrwx    1 root root          28 Sep 10 17:01 jrunscript -> /etc/alternatives/jrunscript
+lrwxrwxrwx    1 root root          24 Sep 10 17:01 jshell -> /etc/alternatives/jshell
+-rwxr-xr-x.   1 root root        1340 Nov 19  2015 jsonpointer
+lrwxrwxrwx    1 root root          24 Sep 10 17:01 jstack -> /etc/alternatives/jstack
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 jstat -> /etc/alternatives/jstat
+lrwxrwxrwx    1 root root          24 Sep 10 17:01 jstatd -> /etc/alternatives/jstatd
+-rwxr-xr-x    1 root root        1737 Nov 20  2015 jvmjar
+lrwxrwxrwx    1 root root          30 Sep 10 17:01 jweblauncher -> /etc/alternatives/jweblauncher
+-rwxr-xr-x.   1 root root        2004 May  9 09:48 k5srvutil
+-rwxr-xr-x.   1 root root       77552 May  9 09:48 kadmin
+-rwxr-xr-x.   1 root root       11448 Aug  2  2017 kbdinfo
+-rwxr-xr-x.   1 root root       11424 Aug  2  2017 kbd_mode
+-rwxr-xr-x.   1 root root       11480 Aug  2  2017 kbdrate
+-rwxr-xr-x.   1 root root       11312 May  9 09:48 kdestroy
+-rwxr-xr-x.   1 root root       29977 Apr 12 13:45 kdumpctl
+-rwxr-xr-x.   1 root root        4489 Aug 16 14:34 kernel-install
+-rwxr-xr-x.   1 root root       28608 Jun  9  2014 keyctl
+lrwxrwxrwx    1 root root          25 Sep 10 17:01 keytool -> /etc/alternatives/keytool
+-rwxr-xr-x.   1 root root       29544 Aug 16 14:47 kill
+-rwxr-xr-x.   1 root root       24720 Aug  3  2017 killall
+-rwxr-xr-x.   1 root root       27760 May  9 09:48 kinit
+-rwxr-xr-x.   1 root root       27912 May  9 09:48 klist
+-rwxr-xr-x.   1 root root      146672 Apr 11 00:46 kmod
+-rwxr-xr-x.   1 root root       11304 May  9 09:48 kpasswd
+-rwxr-xr-x    1 root root        7184 Nov 20  2015 kpseaccess
+lrwxrwxrwx    1 root root           8 Sep 10 16:03 kpsepath -> kpsetool
+-rwxr-xr-x    1 root root        7192 Nov 20  2015 kpsereadlink
+-rwxr-xr-x    1 root root       11296 Nov 20  2015 kpsestat
+lrwxrwxrwx    1 root root          55 Sep 10 16:03 kpsetool -> /usr/share/texlive/texmf-dist/scripts/tetex/kpsetool.sh
+lrwxrwxrwx    1 root root          56 Sep 10 16:03 kpsewhere -> /usr/share/texlive/texmf-dist/scripts/tetex/kpsewhere.sh
+-rwxr-xr-x    1 root root       20648 Nov 20  2015 kpsewhich
+lrwxrwxrwx    1 root root           8 Sep 10 16:03 kpsexpand -> kpsetool
+-rwxr-xr-x    1 root root        7123 May  9 09:48 krb5-config
+lrwxrwxrwx    1 root root          21 Sep 10 16:02 ksh -> /etc/alternatives/ksh
+-rwxr-xr-x    1 root root     1519024 Apr 11 03:28 ksh93
+-rwsr-xr-x.   1 root root       61416 May  9 09:48 ksu
+-rwxr-xr-x.   1 root root       11304 May  9 09:48 kswitch
+-rwxr-xr-x.   1 root root       23776 May  9 09:48 ktutil
+-rwxr-xr-x.   1 root root       15440 May  9 09:48 kvno
+-rwxr-xr-x.   1 root root       19568 Jun  9  2014 last
+lrwxrwxrwx.   1 root root           4 Sep 12  2017 lastb -> last
+-rwxr-xr-x.   1 root root       19592 Nov  5  2016 lastlog
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 latex -> pdftex
+-rwxr-xr-x.   1 root root       15896 Apr 12 14:44 lchfn
+-rwxr-xr-x.   1 root root       15864 Apr 12 14:44 lchsh
+lrwxrwxrwx.   1 root root          20 Aug 27 09:51 ld -> /etc/alternatives/ld
+-rwxr-xr-x.   1 root root     1006248 Jun 27 09:26 ld.bfd
+-rwxr-xr-x.   1 root root        5302 Apr 10 03:57 ldd
+-rwxr-xr-x.   1 root root     5354248 Jun 27 09:26 ld.gold
+-rwxr-xr-x.   1 root root      158240 Jul 30  2015 less
+-rwxr-xr-x.   1 root root       11376 Jul 30  2015 lessecho
+-rwxr-xr-x.   1 root root       17056 Jul 30  2015 lesskey
+-rwxr-xr-x.   1 root root        2291 Jul 30  2015 lesspipe.sh
+lrwxrwxrwx    1 root root           4 Sep 10 16:01 lex -> flex
+-rwxr-xr-x.   1 root root       87024 Jun  9  2014 lexgrog
+-rwxr-xr-x    1 root root        3866 Aug  2  2017 libgcrypt-config
+-rwxr-xr-x    1 root root       15724 Aug  2  2017 libnetcfg
+-rwxr-xr-x    1 root root        2426 Nov  5  2016 libpng12-config
+-rwxr-xr-x    1 root root        2437 Dec  9  2015 libpng15-config
+lrwxrwxrwx    1 root root          15 Sep 10 16:08 libpng-config -> libpng15-config
+-rwxr-xr-x    1 root root      321577 Apr 12  2017 libtool
+-rwxr-xr-x    1 root root       78648 Apr 12  2017 libtoolize
+-rwxr-xr-x.   1 root root       28984 Apr 11 00:35 link
+lrwxrwxrwx.   1 root root           7 Aug 27 09:51 linux32 -> setarch
+lrwxrwxrwx.   1 root root           7 Aug 27 09:51 linux64 -> setarch
+-rwxr-xr-x.   1 root root        5995 Nov  5  2016 linux-boot-prober
+-rwxr-xr-x.   1 root root       58608 Apr 11 00:35 ln
+-rwxr-xr-x.   1 root root      113128 Aug  2  2017 loadkeys
+-rwxr-xr-x.   1 root root       24448 Aug  2  2017 loadunimap
+-rwxr-xr-x.   1 root root       38680 Apr 10 04:24 locale
+-rwxr-xr-x.   1 root root      334128 Aug 16 14:35 localectl
+-rwxr-xr-x.   1 root root      322888 Apr 10 04:24 localedef
+-rwxr-xr-x.   1 root root      153688 May 16 00:43 local-getcert
+-rwxr-xr-x    1 root root         533 Aug 23  2017 logfactor5
+-rwxr-xr-x.   1 root root       29328 Aug 16 14:47 logger
+-rwxr-xr-x.   1 root root       37304 Aug 16 14:47 login
+-rwxr-xr-x.   1 root root      501472 Aug 16 14:35 loginctl
+-rwxr-xr-x.   1 root root       28984 Apr 11 00:35 logname
+-rwxr-xr-x    1 root root       11344 Jun 27 09:49 logresolve
+-rwxr-xr-x.   1 root root       11616 Aug 16 14:47 look
+-rwxr-xr-x    1 root root        4608 Sep  6  2017 lprsetup.sh
+-rwxr-xr-x.   1 root root      117672 Apr 11 00:35 ls
+-rwxr-xr-x.   1 root root       11600 May 16 00:51 lsattr
+-rwxr-xr-x.   1 root root       76960 Aug 16 14:47 lsblk
+-rwxr-xr-x.   1 root root      100696 Aug 16 14:47 lscpu
+lrwxrwxrwx    1 root root          10 Sep 10 16:01 lsdiff -> filterdiff
+-rwxr-xr-x.   1 root root        6410 Aug 16 10:45 lsinitrd
+-rwxr-xr-x.   1 root root       96672 Aug 16 14:47 lsipc
+-rwxr-xr-x.   1 root root       41976 Aug 16 14:47 lslocks
+-rwxr-xr-x.   1 root root       92528 Aug 16 14:47 lslogins
+-rwxr-xr-x.   1 root root       80216 Aug 16 14:47 lsmem
+-rwxr-xr-x.   1 root root       75704 Aug 16 14:47 lsns
+-rwxr-xr-x.   1 root root       15840 Nov  5  2016 lua
+-rwxr-xr-x.   1 root root      121888 Nov  5  2016 luac
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 lualatex -> luatex
+-rwxr-xr-x    1 root root     6079664 Nov 20  2015 luatex
+-rwxr-xr-x.   1 root root      124360 Apr 10 20:54 lz4
+-rwxr-xr-x.   1 root root      124360 Apr 10 20:54 lz4c
+lrwxrwxrwx.   1 root root           3 Aug 27 09:51 lz4cat -> lz4
+-rwxr-xr-x    1 root root       15680 Nov 20  2015 m17n-conv
+-rwxr-xr-x    1 root root      154800 Nov 20  2015 m4
+lrwxrwxrwx    1 root root          33 Sep 10 16:04 ma2asm -> ../lib64/gprolog-1.4.4/bin/ma2asm
+-rwxr-xr-x.   1 root root      546824 Aug 16 14:35 machinectl
+-rwxr-xr-x    1 root root        1218 Jun 16  2016 Magick-config
+-rwxr-xr-x    1 root root        1226 Jun 16  2016 MagickCore-config
+-rwxr-xr-x    1 root root        1231 Jun 16  2016 MagickWand-config
+lrwxrwxrwx    1 root root          15 Sep 10 16:02 Mail -> ../../bin/mailx
+lrwxrwxrwx    1 root root           5 Sep 10 16:02 mail -> mailx
+lrwxrwxrwx.   1 root root          27 Sep 12  2017 mailq -> /etc/alternatives/mta-mailq
+lrwxrwxrwx.   1 root root          31 Sep 12  2017 mailq.postfix -> ../../usr/sbin/sendmail.postfix
+-rwxr-xr-x    1 root root      392880 Apr 11 03:07 mailx
+-rwxr-xr-x.   1 root root      182776 Nov  5  2016 make
+-rwxr-xr-x.   1 root root       19032 Apr 10 04:24 makedb
+-rwxr-xr-x    1 root root       79808 Nov 20  2015 makeindex
+-rwxr-xr-x.   1 root root      102736 Jun  9  2014 man
+-rwxr-xr-x.   1 root root      125088 Jun  9  2014 mandb
+-rwxr-xr-x.   1 root root       33224 Jun  9  2014 manpath
+-rwxr-xr-x.   1 root root       20256 Aug  2  2017 mapscrn
+-rwxr-xr-x.   1 root root       15896 Aug 16 14:47 mcookie
+-rwxr-xr-x.   1 root root       41504 Apr 11 00:35 md5sum
+-rwxr-xr-x    1 root root      113040 Jun 10  2014 merge
+-rwxr-xr-x.   1 root root       11240 Jun  9  2014 mesg
+-rwxr-xr-x    1 root root      292528 Nov 20  2015 mf
+-rwxr-xr-x    1 root root      287728 Nov 20  2015 mf-nowin
+-rwxr-xr-x    1 root root       52912 Nov 20  2015 mft
+-rwxr-xr-x.   1 root root       26090 Aug  3  2017 miniterm.py
+-rwxr-xr-x.   1 root root       79760 Apr 11 00:35 mkdir
+-rwxr-xr-x.   1 root root       63064 Apr 11 00:35 mkfifo
+-rwxr-xr-x    1 root root          65 Nov 22  2015 mkfontdir
+-rwxr-xr-x    1 root root       33128 Nov 22  2015 mkfontscale
+-rwxr-xr-x    1 root root         947 Nov 20  2015 mkindex
+-rwxr-xr-x.   1 root root        3013 Aug 16 10:45 mkinitrd
+lrwxrwxrwx    1 root root          67 Sep 10 16:03 mkluatexfontdb -> /usr/share/texlive/texmf-dist/scripts/luaotfload/mkluatexfontdb.lua
+-rwxr-xr-x.   1 root root       67192 Apr 11 00:35 mknod
+-rwxr-xr-x    1 root root         171 Nov 20  2015 mkocp
+-rwxr-xr-x    1 root root          85 Nov 20  2015 mkofm
+-rwxr-xr-x.   1 root root       41632 Apr 11 00:35 mktemp
+lrwxrwxrwx    1 root root           7 Sep 10 16:02 mktexfmt -> fmtutil
+-rwxr-xr-x    1 root root        7564 Nov 20  2015 mktexlsr
+-rwxr-xr-x    1 root root        3814 Nov 20  2015 mktexmf
+-rwxr-xr-x    1 root root        9736 Nov 20  2015 mktexpk
+-rwxr-xr-x    1 root root        4856 Nov 20  2015 mktextfm
+-rwxr-xr-x    2 root root     1174240 Apr 12 14:59 moc-qt5
+-rwxr-xr-x.   1 root root      157376 May 16 11:20 modutil
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 mogrify
+-rwxr-xr-x    1 root root       46048 Aug 31  2017 mokutil
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 montage
+-rwxr-xr-x.   1 root root       41192 Aug 16 14:47 more
+-rwsr-xr-x.   1 root root       44320 Aug 16 14:47 mount
+-rwxr-xr-x.   1 root root       15760 Aug 16 14:47 mountpoint
+lrwxrwxrwx    1 root root          61 Sep 10 16:03 mptopdf -> /usr/share/texlive/texmf-dist/scripts/context/perl/mptopdf.pl
+-rwxr-xr-x.   1 root root       23920 Aug  2  2017 msgattrib
+-rwxr-xr-x.   1 root root       23880 Aug  2  2017 msgcat
+-rwxr-xr-x.   1 root root       24144 Aug  2  2017 msgcmp
+-rwxr-xr-x.   1 root root       23872 Aug  2  2017 msgcomm
+-rwxr-xr-x.   1 root root       19760 Aug  2  2017 msgconv
+-rwxr-xr-x.   1 root root       19752 Aug  2  2017 msgen
+-rwxr-xr-x.   1 root root       15696 Aug  2  2017 msgexec
+-rwxr-xr-x.   1 root root       28224 Aug  2  2017 msgfilter
+-rwxr-xr-x.   1 root root       78984 Aug  2  2017 msgfmt
+-rwxr-xr-x.   1 root root       36816 Aug  2  2017 msggrep
+-rwxr-xr-x.   1 root root       12751 Mar 15  2017 msghack
+-rwxr-xr-x.   1 root root       45440 Aug  2  2017 msginit
+-rwxr-xr-x.   1 root root       53848 Aug  2  2017 msgmerge
+-rwxr-xr-x.   1 root root       32448 Aug  2  2017 msgunfmt
+-rwxr-xr-x.   1 root root       19776 Aug  2  2017 msguniq
+-rwxr-xr-x    1 root root      867912 Aug 20 14:47 mutt
+-rwxr-xr-x.   1 root root      130344 Apr 11 00:35 mv
+-rwxr-xr-x    1 root root         219 Nov  5  2016 mvn
+-rwxr-xr-x    1 root root         224 Nov  5  2016 mvnDebug
+-rwxr-xr-x    1 root root         222 Nov  5  2016 mvnyjp
+lrwxrwxrwx    1 root root          15 Sep 10 16:02 nail -> ../../bin/mailx
+-rwxr-xr-x.   1 root root       28672 Aug 16 14:47 namei
+-rwxr-xr-x    1 root root      205904 Jun 10  2014 nano
+lrwxrwxrwx    1 root root           4 Aug 30 11:45 nc -> ncat
+-rwxr-xr-x    1 root root      380208 Apr 10 23:41 ncat
+-rwxr-xr-x    1 root root        5814 Sep  6  2017 ncurses5-config
+-rwxr-xr-x    1 root root        5817 Sep  6  2017 ncursesw5-config
+-rwxr-xr-x.   1 root root       24168 Nov  5  2016 ndptool
+-rwxr-xr-x.   1 root root        8347 Jul 30 12:13 needs-restarting
+-rwxr-xr-x    1 root root         441 Dec 28  2013 nekohtml-filter
+-rwxr-xr-x.   1 root root         271 Jun  9  2014 neqn
+-rwxr-xr-x.   1 root root         920 Apr 10 23:05 netaddr
+-rwxr-xr-x.   1 root root      155000 Aug  3  2017 netstat
+-rwxr-xr-x    1 root root       11592 Nov  5  2016 nettle-hash
+-rwxr-xr-x    1 root root        7208 Nov  5  2016 nettle-lfib-stream
+lrwxrwxrwx.   1 root root          32 Sep 12  2017 newaliases -> /etc/alternatives/mta-newaliases
+lrwxrwxrwx.   1 root root          31 Sep 12  2017 newaliases.postfix -> ../../usr/sbin/sendmail.postfix
+-rwsr-xr-x.   1 root root       41776 Nov  5  2016 newgrp
+-rwxr-xr-x.   1 root root       12088 Aug  3  2017 nf-ct-add
+-rwxr-xr-x.   1 root root       16216 Aug  3  2017 nf-ct-list
+-rwxr-xr-x.   1 root root       16600 Aug  3  2017 nf-exp-add
+-rwxr-xr-x.   1 root root       16376 Aug  3  2017 nf-exp-delete
+-rwxr-xr-x.   1 root root       12088 Aug  3  2017 nf-exp-list
+-rwxr-xr-x.   1 root root       11504 Aug  3  2017 nf-log
+-rwxr-xr-x.   1 root root       11448 Aug  3  2017 nf-monitor
+-rwxr-xr-x.   1 root root       11544 Aug  3  2017 nf-queue
+-rwxr-xr-x.   1 root root       36816 Aug  2  2017 ngettext
+-rwxr-xr-x.   1 root root       33104 Apr 11 00:35 nice
+lrwxrwxrwx.   1 root root           8 Sep 12  2017 nisdomainname -> hostname
+-rwxr-xr-x.   1 root root       41568 Apr 11 00:35 nl
+-rwxr-xr-x.   1 root root       11928 Aug  3  2017 nl-addr-add
+-rwxr-xr-x.   1 root root       12016 Aug  3  2017 nl-addr-delete
+-rwxr-xr-x.   1 root root       16256 Aug  3  2017 nl-addr-list
+-rwxr-xr-x.   2 root root       11976 Aug  3  2017 nl-class-add
+-rwxr-xr-x.   2 root root       11824 Aug  3  2017 nl-class-delete
+-rwxr-xr-x.   2 root root       11560 Aug  3  2017 nl-classid-lookup
+-rwxr-xr-x.   2 root root       11752 Aug  3  2017 nl-class-list
+-rwxr-xr-x.   2 root root       12040 Aug  3  2017 nl-cls-add
+-rwxr-xr-x.   2 root root       11960 Aug  3  2017 nl-cls-delete
+-rwxr-xr-x.   2 root root       11856 Aug  3  2017 nl-cls-list
+-rwxr-xr-x.   1 root root       11688 Aug  3  2017 nl-fib-lookup
+-rwxr-xr-x.   1 root root        7216 Aug  3  2017 nl-link-enslave
+-rwxr-xr-x.   1 root root        7232 Aug  3  2017 nl-link-ifindex2name
+-rwxr-xr-x.   2 root root       11800 Aug  3  2017 nl-link-list
+-rwxr-xr-x.   1 root root        7216 Aug  3  2017 nl-link-name2ifindex
+-rwxr-xr-x.   1 root root        7216 Aug  3  2017 nl-link-release
+-rwxr-xr-x.   1 root root       11920 Aug  3  2017 nl-link-set
+-rwxr-xr-x.   1 root root       11664 Aug  3  2017 nl-link-stats
+-rwxr-xr-x.   1 root root       11344 Aug  3  2017 nl-list-caches
+-rwxr-xr-x.   1 root root        7232 Aug  3  2017 nl-list-sockets
+-rwxr-xr-x.   1 root root       11464 Aug  3  2017 nl-monitor
+-rwxr-xr-x.   1 root root       11784 Aug  3  2017 nl-neigh-add
+-rwxr-xr-x.   1 root root       11848 Aug  3  2017 nl-neigh-delete
+-rwxr-xr-x.   1 root root       11736 Aug  3  2017 nl-neigh-list
+-rwxr-xr-x.   1 root root       11536 Aug  3  2017 nl-neightbl-list
+-rwxr-xr-x.   2 root root       11632 Aug  3  2017 nl-pktloc-lookup
+-rwxr-xr-x.   2 root root       11880 Aug  3  2017 nl-qdisc-add
+-rwxr-xr-x.   2 root root       11816 Aug  3  2017 nl-qdisc-delete
+-rwxr-xr-x.   2 root root       11904 Aug  3  2017 nl-qdisc-list
+-rwxr-xr-x.   1 root root       12016 Aug  3  2017 nl-route-add
+-rwxr-xr-x.   1 root root       16240 Aug  3  2017 nl-route-delete
+-rwxr-xr-x.   1 root root       11448 Aug  3  2017 nl-route-get
+-rwxr-xr-x.   1 root root       12056 Aug  3  2017 nl-route-list
+-rwxr-xr-x.   1 root root       11568 Aug  3  2017 nl-rule-list
+-rwxr-xr-x.   1 root root       11808 Aug  3  2017 nl-tctree-list
+-rwxr-xr-x.   1 root root        7200 Aug  3  2017 nl-util-addr
+-rwxr-xr-x.   1 root root       42472 Jun 27 09:26 nm
+-rwxr-xr-x    1 root root    16859104 Jun 14 14:22 node
+-rwxr-xr-x    1 root root    20781136 Jun 14 14:22 node_g
+-rwxr-xr-x.   1 root root       33184 Apr 11 00:35 nohup
+lrwxrwxrwx    1 root root          38 Sep 10 16:05 npm -> ../lib/node_modules/npm/bin/npm-cli.js
+-rwxr-xr-x.   1 root root       33128 Apr 11 00:35 nproc
+-rwxr-xr-x.   1 root root        3392 Jun  9  2014 nroff
+-rwxr-xr-x.   1 root root       28920 Aug 16 14:47 nsenter
+-rwxr-xr-x.   1 root root      117296 Apr 12 14:48 nslookup
+-rwxr-xr-x.   1 root root       62384 Apr 12 14:48 nsupdate
+-rwxr-xr-x.   1 root root       11304 Apr 13 08:52 ntpstat
+-rwxr-xr-x.   1 root root       66264 Apr 11 00:35 numfmt
+-rwxr-xr-x.   1 root root      232872 Jun 27 09:26 objcopy
+-rwxr-xr-x.   1 root root      366328 Jun 27 09:26 objdump
+-rwxr-xr-x    1 root root        7281 Aug  4  2017 ocs
+-rwxr-xr-x.   1 root root       66368 Apr 11 00:35 od
+-rwxr-xr-x.   1 root root       36608 Mar  5  2015 oddjob_request
+-rwxr-xr-x.   1 root root      190808 Nov 20  2015 oldfind
+lrwxrwxrwx.   1 root root           6 Sep 12  2017 open -> openvt
+-rwxr-xr-x.   1 root root      555296 Apr 11 00:58 openssl
+-rwxr-xr-x.   1 root root       19944 Aug  2  2017 openvt
+lrwxrwxrwx    1 root root          22 Sep 10 17:01 orbd -> /etc/alternatives/orbd
+-rwxr-xr-x    1 root root       15760 Aug  2  2017 orc-bugreport
+-rwxr-xr-x.   1 root root        5643 Nov  5  2016 os-prober
+-rwxr-xr-x    1 root root       32136 Jun  9  2014 otfdump
+-rwxr-xr-x    1 root root       11464 Jun  9  2014 otflist
+-rwxr-xr-x    1 root root       11408 Jun  9  2014 otftobdf
+-rwxr-xr-x    1 root root       40848 Jun  9  2014 otfview
+-rwxr-xr-x.   1 root root       32952 Aug  4  2017 p11-kit
+lrwxrwxrwx    1 root root          25 Sep 10 17:01 pack200 -> /etc/alternatives/pack200
+-rwxr-xr-x.   1 root root       17803 Jul 30 12:13 package-cleanup
+-rwxr-xr-x    1 root root       50616 Aug  5  2017 pango-view
+-rwsr-xr-x.   1 root root       27832 Jun 10  2014 passwd
+-rwxr-xr-x.   1 root root       33120 Apr 11 00:35 paste
+-rwxr-xr-x    1 root root      150624 May  9 09:03 patch
+-rwxr-xr-x.   1 root root       33088 Apr 11 00:35 pathchk
+-rwxr-xr-x.   1 root root        4024 Nov  5  2016 pchrt
+-rwxr-xr-x    1 root root        2138 Aug  1  2017 pcre-config
+-rwxr-xr-x    1 root root         698 Sep  6  2017 pdf2dsc
+-rwxr-xr-x    1 root root         909 Sep  6  2017 pdf2ps
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 pdfetex -> pdftex
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 pdflatex -> pdftex
+-rwxr-xr-x    1 root root      732584 Nov 20  2015 pdftex
+-rwxr-xr-x.   1 root root       11472 Aug  3  2017 peekfd
+-rwxr-xr-x    1 root root     4697248 Aug 14 18:26 perf
+-rwxr-xr-x    2 root root       11408 Aug  2  2017 perl
+-rwxr-xr-x    2 root root       11408 Aug  2  2017 perl5.16.3
+-rwxr-xr-x    2 root root       43873 Aug  2  2017 perlbug
+-rwxr-xr-x    1 root root         203 Jun 10  2014 perldoc
+-rwxr-xr-x    1 root root       10772 Aug  2  2017 perlivp
+-rwxr-xr-x    2 root root       43873 Aug  2  2017 perlthanks
+-rwxr-xr-x    1 root root         498 Sep  6  2017 pf2afm
+-rwxr-xr-x    1 root root         516 Sep  6  2017 pfbtopfa
+-rwxr-xr-x.   1 root root        1860 Nov  5  2016 pflags
+-rwxr-xr-x.   1 root root      428672 Jun 28  2017 pgawk
+-rwxr-xr-x    1 root root       28752 Aug 23 11:03 pg_config
+-rwxr-xr-x    1 root root      313200 Aug 23 11:03 pg_dump
+-rwxr-xr-x    1 root root       75744 Aug 23 11:03 pg_dumpall
+-rwxr-xr-x    1 root root        7264 Aug 20 14:47 pgpewrap
+-rwxr-xr-x    1 root root       41664 Aug 20 14:47 pgpring
+-rwxr-xr-x.   1 root root       28408 May 24 11:32 pgrep
+-rwxr-xr-x    1 root root      129960 Aug 23 11:03 pg_restore
+lrwxrwxrwx    1 root root           9 Sep 10 16:05 phar -> phar.phar
+-rwxr-xr-x    1 root root       14817 Apr 12 15:04 phar.phar
+-rwxr-xr-x    1 root root     4618120 Apr 12 15:04 php
+-rwxr-xr-x    1 root root     4597080 Apr 12 15:04 php-cgi
+-rwxr-xr-x    1 root root        4524 Apr 12 15:04 php-config
+-rwxr-xr-x    1 root root        4760 Apr 12 15:04 phpize
+-rwxr-xr-x.   1 root root      184736 Jun  9  2014 pic
+-rwxr-xr-x    1 root root      758712 Nov 15  2017 pico
+-rwxr-xr-x    1 root root        8177 Jun  9  2014 piconv
+-rwxr-xr-x    1 root root      745976 Nov 15  2017 pilot
+-rwxr-xr-x.   1 root root        2602 Nov  4  2016 pinentry
+-rwxr-xr-x.   1 root root       50368 Nov  5  2016 pinentry-curses
+-rwxr-xr-x.   1 root root       66176 Aug  4  2017 ping
+lrwxrwxrwx.   1 root root           4 Sep 12  2017 ping6 -> ping
+-rwxr-xr-x.   1 root root       37448 Apr 11 00:35 pinky
+-rwxr-xr-x.   1 root root       93216 May 16 11:20 pk12util
+-rwxr-xr-x.   1 root root       15352 Apr 10 20:27 pkaction
+-rwxr-xr-x.   1 root root       23576 Apr 10 20:27 pkcheck
+-rwxr-xr-x    1 root root       15896 Nov  5  2016 pkcs1-conv
+-rwsr-xr-x.   1 root root       27680 Apr 10 20:27 pkexec
+-rwxr-xr-x.   1 root root       45448 Jun  9  2014 pkg-config
+-rwxr-xr-x.   1 root root       28408 May 24 11:32 pkill
+-rwxr-xr-x.   1 root root       19688 Jun  9  2014 pkla-admin-identities
+-rwxr-xr-x.   1 root root       27960 Jun  9  2014 pkla-check-authorization
+-rwxr-xr-x    1 root root       24168 Nov 20  2015 pktogf
+-rwxr-xr-x.   1 root root       15320 Apr 10 20:27 pkttyagent
+-rwxr-xr-x    1 root root       19968 Nov 20  2015 pktype
+-rwxr-xr-x    1 root root        4531 Aug  2  2017 pl2pm
+lrwxrwxrwx    1 root root          33 Sep 10 16:04 pl2wam -> ../lib64/gprolog-1.4.4/bin/pl2wam
+-rwxr-xr-x.   1 root root       14808 Apr 10 04:24 pldd
+-rwxr-xr-x.   1 root root       28344 May 24 11:32 pmap
+-rwxr-xr-x    1 root root        4096 Aug  2  2017 pod2html
+-rwxr-xr-x    1 root root       13581 Jun  9  2014 pod2man
+-rwxr-xr-x    1 root root       11004 Jun  9  2014 pod2text
+-rwxr-xr-x    1 root root        3755 Jun 10  2014 pod2usage
+-rwxr-xr-x.   1 root root      192048 Jun  9  2014 post-grohtml
+-rwxr-xr-x.   1 root root        6296 Aug 14 18:26 powernow-k8-decode
+-rwxr-xr-x    1 root root         404 Sep  6  2017 pphs
+-rwxr-xr-x.   1 root root       66664 Apr 11 00:35 pr
+-rwxr-xr-x.   1 root root       41864 Jun  9  2014 preconv
+-rwxr-xr-x.   1 root root       88312 Jun  9  2014 pre-grohtml
+-rwxr-xr-x    1 root root         395 Sep  6  2017 printafm
+-rwxr-xr-x.   1 root root       28976 Apr 11 00:35 printenv
+-rwxr-xr-x.   1 root root       49776 Apr 11 00:35 printf
+-rwxr-xr-x.   1 root root       42160 Aug 16 14:47 prlimit
+-rwxr-xr-x    1 root root       13444 Aug 12  2015 prove
+-rwxr-xr-x.   1 root root       15616 Aug  3  2017 prtstat
+-rwxr-xr-x.   1 root root      100184 May 24 11:32 ps
+-rwxr-xr-x    1 root root         740 Sep  6  2017 ps2ascii
+-rwxr-xr-x    1 root root        2794 Sep  6  2017 ps2epsi
+-rwxr-xr-x    1 root root         272 Sep  6  2017 ps2pdf
+-rwxr-xr-x    1 root root         215 Sep  6  2017 ps2pdf12
+-rwxr-xr-x    1 root root         215 Sep  6  2017 ps2pdf13
+-rwxr-xr-x    1 root root         215 Sep  6  2017 ps2pdf14
+-rwxr-xr-x    1 root root        1097 Sep  6  2017 ps2pdfwr
+-rwxr-xr-x    1 root root         647 Sep  6  2017 ps2ps
+-rwxr-xr-x    1 root root         669 Sep  6  2017 ps2ps2
+-rwxr-xr-x    2 root root       53329 Aug  2  2017 psed
+lrwxrwxrwx.   1 root root           9 Sep 12  2017 psfaddtable -> psfxtable
+lrwxrwxrwx.   1 root root           9 Sep 12  2017 psfgettable -> psfxtable
+lrwxrwxrwx.   1 root root           9 Sep 12  2017 psfstriptable -> psfxtable
+-rwxr-xr-x.   1 root root       19936 Aug  2  2017 psfxtable
+-rwxr-xr-x    1 root root      449320 Aug 23 11:03 psql
+lrwxrwxrwx    1 root root           6 Sep 10 16:00 pstack -> gstack
+-rwxr-xr-x.   1 root root       28512 Aug  3  2017 pstree
+lrwxrwxrwx.   1 root root           6 Aug 27 09:59 pstree.x11 -> pstree
+-rwxr-xr-x    2 root root       36607 Aug  2  2017 pstruct
+-rwxr-xr-x.   1 root root        3891 Nov  5  2016 ptaskset
+-rwxr-xr-x.   1 root root       66648 Apr 11 00:35 ptx
+-rwxr-xr-x.   1 root root       33232 Apr 11 00:35 pwd
+-rwxr-xr-x.   1 root root       11608 May 24 11:32 pwdx
+-rwxr-xr-x.   1 root root       11392 Apr 10 23:58 pwmake
+-rwxr-xr-x.   1 root root       11392 Apr 10 23:58 pwscore
+-rwxr-xr-x.   1 root root          78 Jul 13 09:07 pydoc
+lrwxrwxrwx.   1 root root           7 Aug 27 09:51 python -> python2
+lrwxrwxrwx.   1 root root           9 Aug 27 09:51 python2 -> python2.7
+-rwxr-xr-x.   1 root root        7216 Jul 13 09:07 python2.7
+-rwxr-xr-x    2 root root      279336 Apr 12 14:59 qdbuscpp2xml-qt5
+-rwxr-xr-x    2 root root       82896 Apr 12 14:59 qdbusxml2cpp-qt5
+-rwxr-xr-x.   1 root root      490184 Aug 16 11:30 qemu-ga
+-rwxr-xr-x    2 root root      150096 Apr 12 14:59 qlalr
+-rwxr-xr-x    2 root root     2858440 Apr 12 14:59 qmake-qt5
+-rwxr-xr-x    3 root root       59320 Apr 12 18:30 qml
+-rwxr-xr-x    2 root root     1020512 Apr 12 18:30 qmlcachegen
+-rwxr-xr-x    2 root root      101136 Apr 12 18:30 qmleasing
+-rwxr-xr-x    2 root root      256520 Apr 12 18:30 qmlimportscanner
+-rwxr-xr-x    2 root root      193280 Apr 12 18:30 qmllint
+-rwxr-xr-x    3 root root      103632 Apr 12 18:30 qmlmin
+-rwxr-xr-x    3 root root      103632 Apr 12 18:30 qmlmin-qt5
+-rwxr-xr-x    2 root root      118576 Apr 12 18:30 qmlplugindump-qt5
+-rwxr-xr-x    2 root root      157232 Apr 12 18:30 qmlprofiler-qt5
+-rwxr-xr-x    3 root root       59320 Apr 12 18:30 qml-qt5
+-rwxr-xr-x    3 root root       50680 Apr 12 18:30 qmlscene
+-rwxr-xr-x    3 root root       50680 Apr 12 18:30 qmlscene-qt5
+-rwxr-xr-x    2 root root        7304 Apr 12 18:30 qmltestrunner
+-rwxr-xr-x.   1 root root       85312 Apr 11 00:22 quota
+-rwxr-xr-x.   1 root root       72544 Apr 11 00:22 quotasync
+-rwxr-xr-x.   1 root root       62744 Jun 27 09:26 ranlib
+-rwxr-xr-x.   1 root root       11624 Aug 16 14:47 raw
+-rwxr-xr-x    2 root root     1054288 Apr 12 14:59 rcc-qt5
+-rwxr-xr-x    1 root root      179808 Jun 10  2014 rcs
+-rwxr-xr-x    1 root root         819 Jun 10  2014 rcsclean
+-rwxr-xr-x    1 root root         816 Jun 10  2014 rcsdiff
+-rwxr-xr-x    1 root root        4443 Jun 10  2014 rcsfreeze
+-rwxr-xr-x    1 root root         819 Jun 10  2014 rcsmerge
+-rwxr-xr-x    1 root root         934 Mar  2  2018 rdoc
+-rwxr-xr-x.   1 root root          28 Apr 10 20:53 read
+-rwxr-xr-x.   1 root root      518000 Jun 27 09:26 readelf
+-rwxr-xr-x.   1 root root       41800 Apr 11 00:35 readlink
+-rwxr-xr-x.   1 root root       62704 Apr 11 00:35 realpath
+-rwxr-xr-x    1 root root        1803 Nov 20  2015 rebuild-jar-repository
+-rwxr-xr-x.   1 root root       15648 Aug  2  2017 recode-sr-latin
+-rwxr-xr-x    1 root root        3436 Jun  9  2014 recountdiff
+-rwxr-xr-x    1 root root       36880 Jun  9  2014 rediff
+-rwxr-xr-x    1 root root       58688 Aug 23 11:03 reindexdb
+-rwxr-xr-x.   1 root root       11600 Aug 16 14:47 rename
+-rwxr-xr-x.   1 root root       11552 Aug 16 14:47 renice
+-rwxr-xr-x.   1 root root       11699 Jul 30 12:13 repoclosure
+-rwxr-xr-x.   1 root root       14301 Jul 30 12:13 repodiff
+-rwxr-xr-x.   1 root root        4191 Jul 30 12:13 repo-graph
+-rwxr-xr-x.   1 root root        7043 Jul 30 12:13 repomanage
+-rwxr-xr-x.   1 root root       57013 Jul 30 12:13 repoquery
+-rwxr-xr-x.   1 root root       10315 Jul 30 12:13 repo-rss
+-rwxr-xr-x.   1 root root       14341 Jul 30 12:13 reposync
+-rwxr-xr-x.   1 root root        8735 Jul 30 12:13 repotrack
+lrwxrwxrwx.   1 root root           4 Aug 27 09:51 reset -> tset
+-rwxr-xr-x.   1 root root       20088 Aug  2  2017 resizecons
+-rwxr-xr-x.   1 root root       11600 Aug 16 14:47 rev
+-rwxr-xr-x    1 root root         184 Mar  2  2018 ri
+lrwxrwxrwx    1 root root          10 Sep 10 16:02 rksh -> /bin/ksh93
+-rwxr-xr-x    1 root root         807 Jun 10  2014 rlog
+-rwxr-xr-x.   1 root root       62864 Apr 11 00:35 rm
+lrwxrwxrwx.   1 root root          27 Sep 12  2017 rmail -> /etc/alternatives/mta-rmail
+-rwxr-xr-x.   1 root root         262 Jun  9  2014 rmail.postfix
+-rwxr-xr-x.   1 root root       45536 Apr 11 00:35 rmdir
+lrwxrwxrwx    1 root root          22 Sep 10 17:01 rmic -> /etc/alternatives/rmic
+lrwxrwxrwx    1 root root          22 Sep 10 17:01 rmid -> /etc/alternatives/rmid
+lrwxrwxrwx    1 root root          29 Sep 10 17:01 rmiregistry -> /etc/alternatives/rmiregistry
+lrwxrwxrwx    1 root root           4 Sep 10 16:01 rnano -> nano
+-rwxr-xr-x.   1 root root       93080 Apr 10 04:24 rpcgen
+-rwxr-xr-x    1 root root     1101336 Nov 15  2017 rpdump
+-rwxr-xr-x    1 root root     1109584 Nov 15  2017 rpload
+-rwxr-xr-x.   1 root root       16120 Apr 10 23:54 rpm
+-rwxr-xr-x.   1 root root       11408 Apr 10 23:54 rpm2cpio
+-rwxr-xr-x    1 root root       26176 Apr 10 23:54 rpmbuild
+-rwxr-xr-x.   1 root root       12000 Apr 10 23:54 rpmdb
+-rwxr-xr-x.   1 root root       12008 Apr 10 23:54 rpmkeys
+lrwxrwxrwx.   1 root root          13 Aug 27 09:51 rpmquery -> ../../bin/rpm
+-rwxr-xr-x    1 root root       16168 Apr 10 23:54 rpmsign
+-rwxr-xr-x    1 root root       16360 Apr 10 23:54 rpmspec
+lrwxrwxrwx.   1 root root          13 Aug 27 09:51 rpmverify -> ../../bin/rpm
+-rwxr-xr-x.   1 root root      495840 Apr 10 22:00 rsync
+-rwxr-xr-x.   1 root root        6098 May 16 07:27 rsyslog-recover-qi.pl
+-rwxr-xr-x    1 root root        7184 Mar  2  2018 ruby
+-rwxr-xr-x    1 root root        4422 Jul  8  2013 runant.pl
+-rwxr-xr-x    1 root root        3299 Jul  8  2013 runant.py
+-rwxr-xr-x.   1 root root       33256 Apr 11 00:35 runcon
+lrwxrwxrwx    1 root root          12 Sep 10 16:04 runghc -> runghc-7.6.3
+-rwxr-xr-x    1 root root         221 Oct 26  2016 runghc-7.6.3
+lrwxrwxrwx    1 root root          28 Sep 10 16:04 runhaskell -> /etc/alternatives/runhaskell
+lrwxrwxrwx    1 root root           6 Sep 10 16:04 runhaskell-ghc -> runghc
+-rwxr-xr-x.   1 root root        2086 Jun  9  2014 run-parts
+lrwxrwxrwx.   1 root root           2 Aug 27 09:51 rvi -> vi
+lrwxrwxrwx.   1 root root           2 Aug 27 09:51 rview -> vi
+lrwxrwxrwx    1 root root           3 Aug 30 11:45 rvim -> vim
+-rwxr-xr-x    2 root root       53329 Aug  2  2017 s2p
+-rwxr-xr-x.   1 root root       17939 Apr 11 12:10 sandbox
+lrwxrwxrwx    1 root root          27 Sep 10 17:01 schemagen -> /etc/alternatives/schemagen
+-rwxr-xr-x.   1 root root       91408 Apr 11 00:21 scp
+-rwxr-xr-x.   1 root root       20152 Aug 16 14:47 script
+-rwxr-xr-x.   1 root root       15728 Aug 16 14:47 scriptreplay
+-rwxr-xr-x    1 root root       45616 Nov  5  2016 sctp_darn
+-rwxr-xr-x    1 root root       24240 Nov  5  2016 sctp_status
+-rwxr-xr-x    1 root root       32544 Nov  5  2016 sctp_test
+-rwxr-xr-x.   1 root root       49528 Jun 10  2014 sdiff
+-rwxr-xr-x    1 root root        1145 Nov 20  2015 sdl-config
+-rwxr-xr-x.   1 root root       24728 Apr 11 12:10 secon
+-rwxr-xr-x.   1 root root       76016 Jun  9  2014 sed
+-rwxr-xr-x.   1 root root      255408 Apr 11 12:02 sedismod
+-rwxr-xr-x.   1 root root      180520 Apr 11 12:02 sedispol
+-rwxr-xr-x.   1 root root      153696 May 16 00:43 selfsign-getcert
+-rwxr-xr-x.   1 root root       15752 Apr 11 12:10 semodule_package
+-rwxr-xr-x.   1 root root       49632 Apr 11 00:35 seq
+lrwxrwxrwx    1 root root          27 Sep 10 17:01 serialver -> /etc/alternatives/serialver
+lrwxrwxrwx    1 root root          28 Sep 10 17:01 servertool -> /etc/alternatives/servertool
+-rwxr-xr-x.   1 root root       15712 Aug 16 14:47 setarch
+-rwxr-xr-x.   1 root root       37616 Apr 10 20:41 setfacl
+-rwxr-xr-x.   1 root root       41344 Aug  2  2017 setfont
+-rwxr-xr-x.   1 root root       11424 Aug  2  2017 setkeycodes
+-rwxr-xr-x.   1 root root       11432 Aug  2  2017 setleds
+-rwxr-xr-x.   1 root root       11472 Aug  2  2017 setmetamode
+-rwxr-xr-x.   1 root root       36976 Aug 16 14:47 setpriv
+-rwxr-xr-x.   1 root root       11560 Aug 16 14:47 setsid
+-rwxr-xr-x.   1 root root       28224 Aug 16 14:47 setterm
+lrwxrwxrwx.   1 root root          19 Aug 27 09:51 setup-nsssysinit -> setup-nsssysinit.sh
+-rwxr-xr-x.   1 root root        1539 May 16 11:20 setup-nsssysinit.sh
+-rwxr-xr-x.   1 root root       11600 Aug  2  2017 setvtrgb
+-rwxr-xr-x    1 root root       24192 Nov  5  2016 sexp-conv
+-rwxr-xr-x.   1 root root      145440 Apr 11 00:21 sftp
+lrwxrwxrwx.   1 root root           6 Sep 12  2017 sg -> newgrp
+lrwxrwxrwx.   1 root root           4 Aug 27 09:51 sh -> bash
+-rwxr-xr-x.   1 root root       37448 Apr 11 00:35 sha1sum
+-rwxr-xr-x.   1 root root       41600 Apr 11 00:35 sha224sum
+-rwxr-xr-x.   1 root root       41600 Apr 11 00:35 sha256sum
+-rwxr-xr-x.   1 root root       41592 Apr 11 00:35 sha384sum
+-rwxr-xr-x.   1 root root       41592 Apr 11 00:35 sha512sum
+-rwxr-xr-x    1 root root     1514896 Apr 11 03:28 shcomp
+-rwxr-xr-x.   1 root root       10371 Jul 30 12:13 show-changed-rco
+-rwxr-xr-x.   1 root root       15832 Aug  2  2017 showconsolefont
+-rwxr-xr-x.   1 root root       16572 Jul 30 12:13 show-installed
+-rwxr-xr-x.   1 root root       15600 Aug  2  2017 showkey
+-rwxr-xr-x.   1 root root       54216 Apr 11 00:35 shred
+-rwxr-xr-x.   1 root root       50320 Apr 11 00:35 shuf
+-rwxr-xr-x.   1 root root      172072 May 16 11:20 signtool
+-rwxr-xr-x.   1 root root       96728 May 16 11:20 signver
+-rwxr-xr-x    1 root root       15416 May  9 09:48 sim_client
+lrwxrwxrwx    1 root root          57 Sep 10 16:03 simpdftex -> /usr/share/texlive/texmf-dist/scripts/simpdftex/simpdftex
+-rwxr-xr-x.   1 root root       33216 Jun 27 09:26 size
+-rwxr-xr-x.   1 root root       24256 May 24 11:32 skill
+-rwxr-xr-x.   1 root root       20048 May 24 11:32 slabtop
+-rwxr-xr-x.   1 root root       33120 Apr 11 00:35 sleep
+lrwxrwxrwx.   1 root root           5 Aug 27 09:52 slogin -> ./ssh
+-rwxr-xr-x    1 root root       26277 Aug 20 14:47 smime_keys
+-rwxr-xr-x.   1 root root       24256 May 24 11:32 snice
+-rwxr-xr-x.   1 root root       33368 Jun  9  2014 soelim
+-rwxr-xr-x.   1 root root      117728 Apr 11 00:35 sort
+-rwxr-xr-x.   1 root root        4341 Apr 10 03:57 sotruss
+-rwxr-xr-x    1 root root       18459 Aug  2  2017 splain
+-rwxr-xr-x.   1 root root       71128 Apr 11 00:35 split
+-rwxr-xr-x    1 root root        3186 Jun  9  2014 splitdiff
+-rwxr-xr-x.   1 root root       23152 Apr 10 04:24 sprof
+-rwxr-xr-x.   1 root root       56240 Nov 20  2015 sqlite3
+-rwxr-xr-x.   1 root root      778736 Apr 11 00:21 ssh
+-rwxr-xr-x.   1 root root      360944 Apr 11 00:21 ssh-add
+---x--s--x.   1 root nobody    382240 Apr 11 00:21 ssh-agent
+-rwxr-xr-x.   1 root root       10469 Apr 11 00:21 ssh-copy-id
+-rwxr-xr-x.   1 root root      419240 Apr 11 00:21 ssh-keygen
+-rwxr-xr-x.   1 root root      445152 Apr 11 00:21 ssh-keyscan
+-rwxr-xr-x.   1 root root      112976 May 16 11:20 ssltap
+-rwxr-xr-x.   1 root root       24008 Jun 27 13:57 sss_ssh_authorizedkeys
+-rwxr-xr-x.   1 root root       28096 Jun 27 13:57 sss_ssh_knownhostsproxy
+-rwxr-xr-x    1 root root     3320936 Jun 27 14:08 stap
+-rwxr-xr-x    1 root root      195872 Jun 27 14:08 stapdyn
+-rwxr-xr-x    1 root root       11312 Jun 27 14:08 stap-merge
+-rwxr-xr-x    1 root root        3923 Jun 27 14:08 stap-prep
+-rwxr-xr-x    1 root root        4855 Jun 27 14:08 stap-report
+---s--x---    1 root stapusr   203800 Jun 27 14:08 staprun
+-rwxr-xr-x    1 root root       23824 Jun 27 14:08 stapsh
+-rwxr-xr-x.   1 root root       74904 Apr 11 00:35 stat
+-rwxr-xr-x.   1 root root       66448 Apr 11 00:35 stdbuf
+-rwxr-xr-x    1 root root        7200 Jun 16  2016 stream
+-rwxr-xr-x.   1 root root       29200 Jun 27 09:26 strings
+-rwxr-xr-x.   1 root root      232880 Jun 27 09:26 strip
+-rwxr-xr-x.   1 root root       70272 Apr 11 00:35 stty
+-rwsr-xr-x.   1 root root       32184 Aug 16 14:47 su
+---s--x--x.   1 root root      143248 Jun 27 14:03 sudo
+lrwxrwxrwx.   1 root root           4 Aug 27 09:52 sudoedit -> sudo
+---x--x--x.   1 root root       49008 Jun 27 14:03 sudoreplay
+-rwxr-xr-x.   1 root root       37432 Apr 11 00:35 sum
+-rwxr-xr-x    1 root root      238024 Apr 10 22:44 svn
+-rwxr-xr-x    1 root root       69016 Apr 10 22:44 svnadmin
+-rwxr-xr-x    1 root root       36168 Apr 10 22:44 svndumpfilter
+-rwxr-xr-x    1 root root       69056 Apr 10 22:44 svnlook
+-rwxr-xr-x    1 root root       52752 Apr 10 22:44 svnrdump
+-rwxr-xr-x    1 root root       85984 Apr 10 22:44 svnserve
+-rwxr-xr-x    1 root root       52832 Apr 10 22:44 svnsync
+-rwxr-xr-x    1 root root       15512 Apr 10 22:44 svnversion
+-rwxr-xr-x    1 root root     1414688 Nov  5  2016 swig
+-rwxr-xr-x.   1 root root       28976 Apr 11 00:35 sync
+-rwxr-xr-x    2 root root       49236 Apr 12 14:49 syncqt.pl
+-rwxr-xr-x.   1 root root      717688 Aug 16 14:35 systemctl
+-rwxr-xr-x.   1 root root     1541552 Aug 16 14:35 systemd-analyze
+-rwxr-xr-x.   1 root root       61904 Aug 16 14:35 systemd-ask-password
+-rwxr-xr-x.   1 root root       41048 Aug 16 14:35 systemd-cat
+-rwxr-xr-x.   1 root root      334232 Aug 16 14:35 systemd-cgls
+-rwxr-xr-x.   1 root root       87256 Aug 16 14:35 systemd-cgtop
+lrwxrwxrwx.   1 root root          11 Aug 27 09:51 systemd-coredumpctl -> coredumpctl
+-rwxr-xr-x.   1 root root       78800 Aug 16 14:35 systemd-delta
+-rwxr-xr-x.   1 root root       41016 Aug 16 14:35 systemd-detect-virt
+-rwxr-xr-x.   1 root root       49432 Aug 16 14:35 systemd-escape
+-rwxr-xr-x.   1 root root      104080 Aug 16 14:35 systemd-firstboot
+-rwxr-xr-x.   1 root root       87488 Aug 16 14:35 systemd-hwdb
+-rwxr-xr-x.   1 root root      313296 Aug 16 14:35 systemd-inhibit
+lrwxrwxrwx.   1 root root           8 Aug 27 09:51 systemd-loginctl -> loginctl
+-rwxr-xr-x.   1 root root       53592 Aug 16 14:35 systemd-machine-id-setup
+-rwxr-xr-x.   1 root root       49328 Aug 16 14:35 systemd-notify
+-rwxr-xr-x.   1 root root      554952 Aug 16 14:35 systemd-nspawn
+-rwxr-xr-x.   1 root root       53496 Aug 16 14:35 systemd-path
+-rwxr-xr-x.   1 root root      392328 Aug 16 14:35 systemd-run
+-rwxr-xr-x.   1 root root      313240 Aug 16 14:35 systemd-stdio-bridge
+-rwxr-xr-x.   1 root root        3979 Aug 16 14:34 systemd-sysv-convert
+-rwxr-xr-x.   1 root root      145592 Aug 16 14:35 systemd-tmpfiles
+-rwxr-xr-x.   1 root root       86872 Aug 16 14:35 systemd-tty-ask-password-agent
+-rwxr-xr-x.   1 root root       15680 Sep  6  2017 tabs
+-rwxr-xr-x.   1 root root       33256 Apr 11 00:35 tac
+-rwxr-xr-x.   1 root root       66816 Apr 11 00:35 tail
+-rwxr-xr-x.   1 root root       24496 Aug 16 14:47 tailf
+-rwxr-xr-x.   1 root root      346080 Apr 10 22:11 tar
+-rwxr-xr-x.   1 root root       28952 Aug 16 14:47 taskset
+-rwxr-xr-x.   1 root root      118744 Jun  9  2014 tbl
+-rwxr-xr-x    1 root root       24032 Jun 10  2014 tcamgr
+-rwxr-xr-x    1 root root       19832 Jun 10  2014 tcamttest
+-rwxr-xr-x    1 root root       54048 Jun 10  2014 tcatest
+-rwxr-xr-x    1 root root       28328 Jun 10  2014 tcbmgr
+-rwxr-xr-x    1 root root       49112 Jun 10  2014 tcbmttest
+-rwxr-xr-x    1 root root       66016 Jun 10  2014 tcbtest
+-rwxr-xr-x    1 root root       19968 Jun 10  2014 tcfmgr
+-rwxr-xr-x    1 root root       32552 Jun 10  2014 tcfmttest
+-rwxr-xr-x    1 root root       44912 Jun 10  2014 tcftest
+-rwxr-xr-x    1 root root       24088 Jun 10  2014 tchmgr
+-rwxr-xr-x    1 root root       44920 Jun 10  2014 tchmttest
+-rwxr-xr-x    1 root root       53544 Jun 10  2014 tchtest
+lrwxrwxrwx    1 root root           8 Sep 10 16:05 tclsh -> tclsh8.5
+-rwxr-xr-x    1 root root        7168 Nov 20  2015 tclsh8.5
+-rwxr-xr-x    1 root root      404648 Aug  2  2017 tcsh
+-rwxr-xr-x    1 root root       32584 Jun 10  2014 tctmgr
+-rwxr-xr-x    1 root root       40672 Jun 10  2014 tctmttest
+-rwxr-xr-x    1 root root       53144 Jun 10  2014 tcttest
+-rwxr-xr-x    1 root root       32512 Jun 10  2014 tcucodec
+-rwxr-xr-x    1 root root       19984 Jun 10  2014 tcumttest
+-rwxr-xr-x    1 root root       67184 Jun 10  2014 tcutest
+-rwxr-xr-x.   1 root root      154728 Apr 11 03:10 teamd
+-rwxr-xr-x.   1 root root       29760 Apr 11 03:10 teamdctl
+-rwxr-xr-x.   1 root root       19648 Apr 11 03:10 teamnl
+-rwxr-xr-x.   1 root root       33160 Apr 11 00:35 tee
+-rwxr-xr-x.   1 root root       37328 Apr 11 00:35 test
+-rwxr-xr-x.   1 root root       30488 Jun  9  2014 testgdbm
+-rwxr-xr-x    1 root root          74 Mar  2  2018 testrb
+-rwxr-xr-x    1 root root      320856 Nov 20  2015 tex
+lrwxrwxrwx    1 root root          51 Sep 10 16:03 texconfig -> /usr/share/texlive/texmf/scripts/tetex/texconfig.sh
+lrwxrwxrwx    1 root root          58 Sep 10 16:03 texconfig-dialog -> /usr/share/texlive/texmf/scripts/tetex/texconfig-dialog.sh
+lrwxrwxrwx    1 root root          55 Sep 10 16:03 texconfig-sys -> /usr/share/texlive/texmf/scripts/tetex/texconfig-sys.sh
+lrwxrwxrwx    1 root root           8 Sep 10 16:02 texhash -> mktexlsr
+lrwxrwxrwx    1 root root          50 Sep 10 16:03 texlinks -> /usr/share/texlive/texmf/scripts/tetex/texlinks.sh
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 texlua -> luatex
+lrwxrwxrwx    1 root root           6 Sep 10 16:03 texluac -> luatex
+lrwxrwxrwx    1 root root          58 Sep 10 16:03 thumbpdf -> /usr/share/texlive/texmf-dist/scripts/thumbpdf/thumbpdf.pl
+-rwxr-xr-x.   1 root root       65800 Sep  6  2017 tic
+-rwxr-xr-x.   1 root root      338200 Aug 16 14:35 timedatectl
+-rwxr-xr-x.   1 root root       54592 Apr 11 00:35 timeout
+-rwxr-xr-x.   1 root root       15816 May 24 11:32 tload
+-rwxr-xr-x.   1 root root       31856 Aug 14 18:26 tmon
+-rwxr-xr-x    1 root root      423128 Jun  9  2014 tmux
+lrwxrwxrwx    1 root root          27 Sep 10 17:01 tnameserv -> /etc/alternatives/tnameserv
+-rwxr-xr-x.   1 root root       15800 Sep  6  2017 toe
+-rwxr-xr-x.   1 root root      106928 May 24 11:32 top
+-rwxr-xr-x.   1 root root       62488 Apr 11 00:35 touch
+-rwxr-xr-x.   1 root root       15784 Sep  6  2017 tput
+-rwxr-xr-x.   1 root root       45656 Apr 11 00:35 tr
+-rwxr-xr-x.   1 root root       15408 Aug  4  2017 tracepath
+-rwxr-xr-x.   1 root root       15408 Aug  4  2017 tracepath6
+-rwxr-xr-x.   1 root root      525272 Jun  9  2014 troff
+-rwxr-xr-x.   1 root root       28920 Apr 11 00:35 true
+-rwxr-xr-x.   1 root root       53936 Apr 11 00:35 truncate
+-rwxr-xr-x.   1 root root      183376 Aug  4  2017 trust
+-rwxr-xr-x.   1 root root       20072 Sep  6  2017 tset
+-rwxr-xr-x.   1 root root       37344 Apr 11 00:35 tsort
+-rwxr-xr-x    1 root root      101416 Nov 20  2015 ttmkfdir
+-rwxr-xr-x.   1 root root       28960 Apr 11 00:35 tty
+-rwxr-xr-x.   1 root root      101976 Aug 14 18:26 turbostat
+-rwxr-xr-x.   1 root root        7339 Apr 10 03:56 tzselect
+-rwxr-xr-x    1 root root       19832 Nov 22  2015 ucs2any
+-rwxr-xr-x.   1 root root      424336 Aug 16 14:35 udevadm
+-rwxr-xr-x    2 root root      530200 Apr 12 14:59 uic-qt5
+-rwxr-xr-x.   1 root root       20016 Aug 16 14:47 ul
+-rwxr-xr-x.   1 root root          29 Apr 10 20:53 umask
+-rwsr-xr-x.   1 root root       32048 Aug 16 14:47 umount
+-rwxr-xr-x.   1 root root          31 Apr 10 20:53 unalias
+-rwxr-xr-x.   1 root root       33080 Apr 11 00:35 uname
+-rwxr-xr-x.   1 root root       33240 Apr 11 00:35 unexpand
+-rwxr-xr-x.   1 root root        2555 Aug  2  2017 unicode_start
+-rwxr-xr-x.   1 root root         363 Aug  2  2017 unicode_stop
+-rwxr-xr-x.   1 root root       45784 Apr 11 00:35 uniq
+-rwxr-xr-x    1 root root        4165 Sep  6  2017 unix-lpr.sh
+-rwxr-xr-x.   1 root root       28984 Apr 11 00:35 unlink
+lrwxrwxrwx.   1 root root           3 Aug 27 09:51 unlz4 -> lz4
+lrwxrwxrwx    1 root root          27 Sep 10 17:01 unpack200 -> /etc/alternatives/unpack200
+-rwxr-xr-x.   1 root root       15904 Aug 16 14:47 unshare
+-rwxr-xr-x    1 root root        5940 Jun  9  2014 unwrapdiff
+lrwxrwxrwx.   1 root root           2 Sep 12  2017 unxz -> xz
+-rwxr-xr-x    2 root root      185488 Apr 11 01:24 unzip
+-rwxr-xr-x    1 root root       90736 Apr 11 01:24 unzipsfx
+-rwxr-xr-x.   1 root root        1054 May 14 10:10 update-ca-trust
+-rwxr-xr-x    1 root root       20096 Aug  2  2017 update-desktop-database
+-rwxr-xr-x.   1 root root       54080 Apr 10 20:37 update-mime-database
+lrwxrwxrwx    1 root root          53 Sep 10 16:03 updmap -> /usr/share/texlive/texmf-dist/scripts/tetex/updmap.pl
+lrwxrwxrwx    1 root root          57 Sep 10 16:03 updmap-sys -> /usr/share/texlive/texmf-dist/scripts/tetex/updmap-sys.sh
+-rwxr-xr-x.   1 root root       11560 May 24 11:32 uptime
+-rwxr-xr-x.   1 root root       12465 Nov  5  2016 urlgrabber
+-rwxr-xr-x    1 root root        3181 Jun  9  2014 url_handler.sh
+-rwxr-xr-x    1 root root       19936 Jun  9  2014 urlview
+-rwxr-xr-x.   1 root root       33192 Apr 11 00:35 users
+-rwxr-xr-x.   1 root root       11288 Aug 16 10:49 usleep
+-rwxr-xr-x.   1 root root       15896 Aug 16 14:47 utmpdump
+-rwxr-xr-x    1 root root       15408 May  9 09:48 uuclient
+-rwxr-xr-x.   1 root root       11552 Aug 16 14:47 uuidgen
+-rwxr-xr-x    1 root root       58776 Aug 23 11:03 vacuumdb
+-rwxr-xr-x.   1 root root      117672 Apr 11 00:35 vdir
+-rwxr-xr-x.   1 root root       11046 Jul 30 12:13 verifytree
+-rwxr-xr-x.   1 root root      910072 Apr 10 19:54 vi
+lrwxrwxrwx.   1 root root           2 Aug 27 09:51 view -> vi
+-rwxr-xr-x    1 root root     2294256 Apr 10 19:54 vim
+lrwxrwxrwx    1 root root           3 Aug 30 11:45 vimdiff -> vim
+-rwxr-xr-x    1 root root        2084 Apr 10 19:54 vimtutor
+-rwxr-xr-x.   1 root root       16104 Aug  2  2017 vlock
+-rwxr-xr-x.   1 root root       32296 May 24 11:32 vmstat
+-rwxr-xr-x.   1 root root       19984 May 24 11:32 w
+-rwxr-xr-x.   1 root root          28 Apr 10 20:53 wait
+-r-xr-sr-x.   1 root tty        15344 Jun  9  2014 wall
+lrwxrwxrwx    1 root root          33 Sep 10 16:04 wam2ma -> ../lib64/gprolog-1.4.4/bin/wam2ma
+-rwxr-xr-x    1 root root        1213 Jun 16  2016 Wand-config
+-rwxr-xr-x.   1 root root       24800 May 24 11:32 watch
+-rwxr-xr-x.   1 root root       15720 Jul 13 09:05 watchgnupg
+-rwxr-xr-x.   1 root root       41640 Apr 11 00:35 wc
+-rwxr-xr-x.   1 root root       41624 Aug 16 14:47 wdctl
+-rwxr-xr-x    1 root root         286 Sep  6  2017 wftopfa
+-rwxr-xr-x    1 root root      418736 Oct 26  2017 wget
+-rwxr-xr-x.   1 root root       46456 Jun  9  2014 whatis
+-rwxr-xr-x.   1 root root       20720 Aug 16 14:47 whereis
+-rwxr-xr-x.   1 root root       24336 Jun  9  2014 which
+-rwxr-xr-x.   1 root root       28504 Jun 10  2014 whiptail
+-rwxr-xr-x.   1 root root       49872 Apr 11 00:35 who
+-rwxr-xr-x.   1 root root       28984 Apr 11 00:35 whoami
+-rwxr-xr-x    1 root root         229 Nov  5  2016 withsctp
+-rwxr-sr-x.   1 root tty        19624 Aug 16 14:47 write
+lrwxrwxrwx    1 root root          23 Sep 10 17:01 wsgen -> /etc/alternatives/wsgen
+lrwxrwxrwx    1 root root          26 Sep 10 17:01 wsimport -> /etc/alternatives/wsimport
+lrwxrwxrwx.   1 root root           7 Aug 27 09:51 x86_64 -> setarch
+-rwxr-xr-x    4 root root      772720 May 15 17:52 x86_64-redhat-linux-c++
+-rwxr-xr-x    4 root root      772720 May 15 17:52 x86_64-redhat-linux-g++
+-rwxr-xr-x    2 root root      768624 May 15 17:52 x86_64-redhat-linux-gcc
+-rwxr-xr-x.   1 root root       10480 Aug 14 18:26 x86_energy_perf_policy
+-rwxr-xr-x.   1 root root       62288 Nov 20  2015 xargs
+-rwxr-xr-x    1 root root       11336 Nov  5  2016 xdriinfo
+-rwxr-xr-x    1 root root        1863 Nov 20  2015 xdvi
+-rwxr-xr-x    1 root root      646568 Nov 20  2015 xdvi-xaw
+-rwxr-xr-x    1 root root         430 Sep 30  2014 xerces-j2-constants
+-rwxr-xr-x    1 root root         424 Sep 30  2014 xerces-j2-version
+-rwxr-xr-x.   1 root root      271784 Aug  2  2017 xgettext
+lrwxrwxrwx    1 root root          21 Sep 10 17:01 xjc -> /etc/alternatives/xjc
+-rwxr-xr-x    1 root root        1716 Jun 23  2016 xml2-config
+-rwxr-xr-x.   1 root root       19752 Jun 23  2016 xmlcatalog
+-rwxr-xr-x.   1 root root       63408 Jun 23  2016 xmllint
+-rwxr-xr-x    1 root root         513 Jun  9  2014 xml-resolver
+-rwxr-xr-x.   1 root root       24568 Nov 28  2016 xmlwf
+-rwxr-xr-x    1 root root         507 Jun  9  2014 xml-xparse
+-rwxr-xr-x    1 root root         505 Jun  9  2014 xml-xread
+-rwxr-xr-x    1 root root        1063 Nov 20  2015 xmvn-builddep
+-rwxr--r--    1 root root        1322 Nov 22  2015 xorg-x11-fonts-update-dirs
+-rwxr-xr-x    1 root root        2412 Sep 12  2012 xslt-config
+-rwxr-xr-x    1 root root       24056 Jun 10  2014 xsltproc
+-rwxr-xr-x    1 root root        4557 Aug  2  2017 xsubpp
+-rwxr-xr-x    1 root root       14768 Apr 10 19:54 xxd
+-rwxr-xr-x.   1 root root       75280 Nov  5  2016 xz
+lrwxrwxrwx.   1 root root           2 Sep 12  2017 xzcat -> xz
+lrwxrwxrwx.   1 root root           6 Sep 12  2017 xzcmp -> xzdiff
+-rwxr-xr-x.   1 root root       11472 Nov  5  2016 xzdec
+-rwxr-xr-x.   1 root root        6632 Nov  5  2016 xzdiff
+lrwxrwxrwx.   1 root root           6 Sep 12  2017 xzegrep -> xzgrep
+lrwxrwxrwx.   1 root root           6 Sep 12  2017 xzfgrep -> xzgrep
+-rwxr-xr-x.   1 root root        5628 Nov  5  2016 xzgrep
+-rwxr-xr-x.   1 root root        1802 Nov  5  2016 xzless
+-rwxr-xr-x.   1 root root        2161 Nov  5  2016 xzmore
+-rwxr-xr-x    1 root root       86504 Jun  9  2014 yacc
+-rwxr-xr-x.   1 root root       28976 Apr 11 00:35 yes
+lrwxrwxrwx.   1 root root           8 Sep 12  2017 ypdomainname -> hostname
+-rwxr-xr-x.   1 root root         801 Apr 13 08:58 yum
+-rwxr-xr-x.   1 root root       10189 Jul 30 12:13 yum-builddep
+-rwxr-xr-x.   1 root root        9039 Jul 30 12:13 yum-config-manager
+-rwxr-xr-x.   1 root root        8538 Jul 30 12:13 yum-debug-dump
+-rwxr-xr-x.   1 root root        7903 Jul 30 12:13 yum-debug-restore
+-rwxr-xr-x.   1 root root       11115 Jul 30 12:13 yumdownloader
+-rwxr-xr-x.   1 root root       11031 Jul 30 12:13 yum-groups-manager
+-rwxr-xr-x.   1 root root        1941 Apr 10 20:01 zcat
+-rwxr-xr-x.   1 root root        1760 Apr 10 20:01 zcmp
+-rwxr-xr-x.   1 root root        5768 Apr 10 20:01 zdiff
+-rwxr-xr-x.   1 root root         123 Apr 10 20:01 zegrep
+-rwxr-xr-x.   1 root root         123 Apr 10 20:01 zfgrep
+-rwxr-xr-x.   1 root root        2144 Apr 10 20:01 zforce
+-rwxr-xr-x.   1 root root        6132 Apr 10 20:01 zgrep
+-rwxr-xr-x    1 root root      215840 Nov  5  2016 zip
+-rwxr-xr-x    1 root root      100456 Nov  5  2016 zipcloak
+-rwxr-xr-x    1 root root       11992 Jun  9  2014 zipcmp
+-rwxr-xr-x    1 root root        2953 Oct 10  2008 zipgrep
+-rwxr-xr-x    2 root root      185488 Apr 11 01:24 zipinfo
+-rwxr-xr-x    1 root root       12040 Jun  9  2014 zipmerge
+-rwxr-xr-x    1 root root       95984 Nov  5  2016 zipnote
+-rwxr-xr-x    1 root root      100096 Nov  5  2016 zipsplit
+-rwxr-xr-x    1 root root       11880 Jun  9  2014 ziptorrent
+-rwxr-xr-x.   1 root root        2041 Apr 10 20:01 zless
+-rwxr-xr-x.   1 root root        2859 Apr 10 20:01 zmore
+-rwxr-xr-x.   1 root root        5343 Apr 10 20:01 znew
+-rwxr-xr-x    1 root root      736320 Aug  2  2017 zsh
+lrwxrwxrwx.   1 root root           6 Sep 12  2017 zsoelim -> soelim
+bash-4.2$ ls -l di*
+-rwxr-xr-x. 1 root root 200104 Jun 10  2014 diff
+-rwxr-xr-x. 1 root root  62072 Jun 10  2014 diff3
+-rwxr-xr-x  1 root root   1236 Nov 20  2015 diff-jars
+-rwxr-xr-x  1 root root  36616 Jun  9  2014 diffstat
+-rwxr-xr-x. 1 root root 129536 Apr 12 14:48 dig
+-rwxr-xr-x. 1 root root 117672 Apr 11 00:35 dir
+-rwxr-xr-x. 1 root root  41416 Apr 11 00:35 dircolors
+-rwxr-xr-x. 1 root root  28992 Apr 11 00:35 dirname
+-rwxr-xr-x  1 root root   7200 Jun 16  2016 display
+bash-4.2$ ls *
+[				    dircolors			 gpg-error-config	     kpsewhich		   nl-neigh-add		     rename			     tcfmttest
+a2p				    dirname			 gpgparsemail		     kpsexpand		   nl-neigh-delete	     renice			     tcftest
+ab				    display			 gpgsplit		     krb5-config	   nl-neigh-list	     repoclosure		     tchmgr
+abs2rel				    dmesg			 gpgv			     ksh		   nl-neightbl-list	     repodiff			     tchmttest
+aclocal				    dnsdomainname		 gpgv2			     ksh93		   nl-pktloc-lookup	     repo-graph			     tchtest
+aclocal-1.13			    domainname			 gpg-zip		     ksu		   nl-qdisc-add		     repomanage			     tclsh
+addr2line			    dotlockfile			 gpic			     kswitch		   nl-qdisc-delete	     repoquery			     tclsh8.5
+afm2tfm				    doxygen			 gplc			     ktutil		   nl-qdisc-list	     repo-rss			     tcsh
+alias				    dracut			 gprof			     kvno		   nl-route-add		     reposync			     tctmgr
+allcm				    dropdb			 gprolog		     last		   nl-route-delete	     repotrack			     tctmttest
+allec				    droplang			 gr2fonttest		     lastb		   nl-route-get		     reset			     tcttest
+allneeded			    dropuser			 grep			     lastlog		   nl-route-list	     resizecons			     tcucodec
+alpine				    dtrace			 grep-changelog		     latex		   nl-rule-list		     rev			     tcumttest
+animate				    du				 grepdiff		     lchfn		   nl-tctree-list	     ri				     tcutest
+ant				    dumpkeys			 gresource		     lchsh		   nl-util-addr		     rksh			     teamd
+antRun				    dumpsexp			 groff			     ld			   nm			     rlog			     teamdctl
+antRun.pl			    dvi2fax			 grops			     ld.bfd		   node			     rm				     teamnl
+appletviewer			    dvilualatex			 grotty			     ldd		   node_g		     rmail			     tee
+apropos				    dviluatex			 groups			     ld.gold		   nohup		     rmail.postfix		     test
+ar				    dvipdf			 growpart		     less		   npm			     rmdir			     testgdbm
+arch				    dvipdfm			 grub2-editenv		     lessecho		   nproc		     rmic			     testrb
+as				    dvipdfmx			 grub2-file		     lesskey		   nroff		     rmid			     tex
+aserver				    dvipdft			 grub2-fstest		     lesspipe.sh	   nsenter		     rmiregistry		     texconfig
+audit2allow			    dvips			 grub2-glue-efi		     lex		   nslookup		     rnano			     texconfig-dialog
+audit2why			    dvired			 grub2-kbdcomp		     lexgrog		   nsupdate		     rpcgen			     texconfig-sys
+aulast				    dwp				 grub2-menulst2cfg	     libgcrypt-config	   ntpstat		     rpdump			     texhash
+aulastlog			    dwz				 grub2-mkfont		     libnetcfg		   numfmt		     rpload			     texlinks
+ausyscall			    easy_install		 grub2-mkimage		     libpng12-config	   objcopy		     rpm			     texlua
+autoconf			    easy_install-2.7		 grub2-mklayout		     libpng15-config	   objdump		     rpm2cpio			     texluac
+autoheader			    ebb				 grub2-mknetdir		     libpng-config	   ocs			     rpmbuild			     thumbpdf
+autom4te			    ebrowse			 grub2-mkpasswd-pbkdf2	     libtool		   od			     rpmdb			     tic
+automake			    echo			 grub2-mkrelpath	     libtoolize		   oddjob_request	     rpmkeys			     timedatectl
+automake-1.13			    ecpg			 grub2-mkrescue		     link		   oldfind		     rpmquery			     timeout
+autopoint			    editdiff			 grub2-mkstandalone	     linux32		   open			     rpmsign			     tload
+autoreconf			    egrep			 grub2-render-label	     linux64		   openssl		     rpmspec			     tmon
+autoscan			    eject			 grub2-script-check	     linux-boot-prober	   openvt		     rpmverify			     tmux
+autoupdate			    elfedit			 grub2-syslinux2cfg	     ln			   orbd			     rsync			     tnameserv
+auvirt				    emacs			 gs			     loadkeys		   orc-bugreport	     rsyslog-recover-qi.pl	     toe
+awk				    emacs-24.3			 gsbj			     loadunimap		   os-prober		     ruby			     top
+base64				    emacsclient			 gsdj			     locale		   otfdump		     runant.pl			     touch
+basename			    env				 gsdj500		     localectl		   otflist		     runant.py			     tput
+bash				    envsubst			 gsettings		     localedef		   otftobdf		     runcon			     tr
+bashbug				    eps2eps			 gsettings-data-convert      local-getcert	   otfview		     runghc			     tracepath
+bashbug-64			    eqn				 gsftopk		     logfactor5		   p11-kit		     runghc-7.6.3		     tracepath6
+bc				    erb				 gslj			     logger		   pack200		     runhaskell			     troff
+bdftopcf			    espdiff			 gslp			     login		   package-cleanup	     runhaskell-ghc		     true
+bdftruncate			    etags			 gsnd			     loginctl		   pango-view		     run-parts			     truncate
+bg				    etags.emacs			 gsoelim		     logname		   passwd		     rvi			     trust
+bibtex				    etex			 gss-client		     logresolve		   paste		     rview			     tset
+bison				    eu-addr2line		 gstack			     look		   patch		     rvim			     tsort
+bond2team			    eu-ar			 gst-feedback		     lprsetup.sh	   pathchk		     s2p			     ttmkfdir
+bootctl				    eu-elfcmp			 gst-feedback-0.10	     ls			   pchrt		     sandbox			     tty
+build-classpath			    eu-elfcompress		 gst-inspect		     lsattr		   pcre-config		     schemagen			     turbostat
+build-classpath-directory	    eu-elflint			 gst-inspect-0.10	     lsblk		   pdf2dsc		     scp			     tzselect
+build-jar-repository		    eu-findtextrel		 gst-launch		     lscpu		   pdf2ps		     script			     ucs2any
+bunzip2				    eu-make-debug-archive	 gst-launch-0.10	     lsdiff		   pdfetex		     scriptreplay		     udevadm
+busctl				    eu-nm			 gst-typefind		     lsinitrd		   pdflatex		     sctp_darn			     uic-qt5
+byacc				    eu-objdump			 gst-typefind-0.10	     lsipc		   pdftex		     sctp_status		     ul
+bzcat				    eu-ranlib			 gst-xmlinspect		     lslocks		   peekfd		     sctp_test			     umask
+bzcmp				    eu-readelf			 gst-xmlinspect-0.10	     lslogins		   perf			     sdiff			     umount
+bzdiff				    eu-size			 gst-xmllaunch		     lsmem		   perl			     sdl-config			     unalias
+bzgrep				    eu-stack			 gst-xmllaunch-0.10	     lsns		   perl5.16.3		     secon			     uname
+bzip2				    eu-strings			 gtar			     lua		   perlbug		     sed			     unexpand
+bzip2recover			    eu-strip			 gtbl			     luac		   perldoc		     sedismod			     unicode_start
+bzless				    eu-unstrip			 gtester		     lualatex		   perlivp		     sedispol			     unicode_stop
+bzmore				    ex				 gtester-report		     luatex		   perlthanks		     selfsign-getcert		     uniq
+c++				    expand			 gtk-launch		     lz4		   pf2afm		     semodule_package		     unix-lpr.sh
+c2ph				    expr			 gtk-query-immodules-3.0-64  lz4c		   pfbtopfa		     seq			     unlink
+c89				    extractbb			 gtk-update-icon-cache	     lz4cat		   pflags		     serialver			     unlz4
+c99				    f95				 gtroff			     m17n-conv		   pgawk		     servertool			     unpack200
+cabal				    factor			 gunzip			     m4			   pg_config		     setarch			     unshare
+cairo-sphinx			    fail2ban-client		 gzexe			     ma2asm		   pg_dump		     setfacl			     unwrapdiff
+cal				    fail2ban-python		 gzip			     machinectl		   pg_dumpall		     setfont			     unxz
+ca-legacy			    fail2ban-regex		 h2ph			     Magick-config	   pgpewrap		     setkeycodes		     unzip
+captoinfo			    fail2ban-server		 h2xs			     MagickCore-config	   pgpring		     setleds			     unzipsfx
+cat				    fallocate			 haddock		     MagickWand-config	   pgrep		     setmetamode		     update-ca-trust
+catchsegv			    false			 haddock-ghc-7.6.3	     Mail		   pg_restore		     setpriv			     update-desktop-database
+catman				    fc				 head			     mail		   phar			     setsid			     update-mime-database
+cc				    fc-cache			 hesinfo		     mailq		   phar.phar		     setterm			     updmap
+ccache-swig			    fc-cat			 hexdump		     mailq.postfix	   php			     setup-nsssysinit		     updmap-sys
+cd				    fc-list			 hexgplc		     mailx		   php-cgi		     setup-nsssysinit.sh	     uptime
+centrino-decode			    fc-match			 hg			     make		   php-config		     setvtrgb			     urlgrabber
+certmaster-getcert		    fc-pattern			 hg-ssh			     makedb		   phpize		     sexp-conv			     url_handler.sh
+certutil			    fc-query			 hlint			     makeindex		   pic			     sftp			     urlview
+c++filt				    fc-scan			 hmac256		     man		   pico			     sg				     users
+chacl				    fc-validate			 host			     mandb		   piconv		     sh				     usleep
+chage				    fd2c			 hostid			     manpath		   pilot		     sha1sum			     utmpdump
+chainsaw			    fg				 hostname		     mapscrn		   pinentry		     sha224sum			     uuclient
+chardetect			    fgconsole			 hostnamectl		     mcookie		   pinentry-curses	     sha256sum			     uuidgen
+chattr				    fgrep			 hp2ps			     md5sum		   ping			     sha384sum			     vacuumdb
+chcat				    file			 hpc			     merge		   ping6		     sha512sum			     vdir
+chcon				    filterdiff			 hsc2hs			     mesg		   pinky		     shcomp			     verifytree
+check-binary-files		    find			 hsc2hs-ghc		     mf			   pk12util		     show-changed-rco		     vi
+checkmk				    find2perl			 htdbm			     mf-nowin		   pkaction		     showconsolefont		     view
+checkmodule			    find-jar			 htdigest		     mft		   pkcheck		     show-installed		     vim
+checkpolicy			    findmnt			 htpasswd		     miniterm.py	   pkcs1-conv		     showkey			     vimdiff
+checksctp			    find-repos-of-install	 httxt2dbm		     mkdir		   pkexec		     shred			     vimtutor
+chfn				    finger			 hunspell		     mkfifo		   pkg-config		     shuf			     vlock
+chgrp				    fipscheck			 i386			     mkfontdir		   pkill		     signtool			     vmstat
+chmem				    fipshmac			 iconv			     mkfontscale	   pkla-admin-identities     signver			     w
+chmod				    fish			 id			     mkindex		   pkla-check-authorization  sim_client			     wait
+chown				    fish_indent			 ident			     mkinitrd		   pktogf		     simpdftex			     wall
+chronyc				    fish_key_reader		 identify		     mkluatexfontdb	   pkttyagent		     size			     wam2ma
+chrt				    fixcvsdiff			 idiag-socket-details	     mknod		   pktype		     skill			     Wand-config
+chsh				    fixqt4headers.pl		 idlj			     mkocp		   pl2pm		     slabtop			     watch
+chvt				    flex			 idn			     mkofm		   pl2wam		     sleep			     watchgnupg
+ci				    flex++			 ifnames		     mktemp		   pldd			     slogin			     wc
+cksum				    flipdiff			 igawk			     mktexfmt		   pmap			     smime_keys			     wdctl
+clean-binary-files		    flock			 ijs-config		     mktexlsr		   pod2html		     snice			     wftopfa
+clear				    fmt				 import			     mktexmf		   pod2man		     soelim			     wget
+cloud-init			    fmtutil			 indent			     mktexpk		   pod2text		     sort			     whatis
+cloud-init-per			    fmtutil-sys			 info			     mktextfm		   pod2usage		     sotruss			     whereis
+clusterdb			    fold			 infocmp		     moc-qt5		   post-grohtml		     splain			     which
+cmp				    font2c			 infokey		     modutil		   powernow-k8-decode	     split			     whiptail
+cmsutil				    fonttosfnt			 infotocap		     mogrify		   pphs			     splitdiff			     who
+co				    free			 inimf			     mokutil		   pr			     sprof			     whoami
+col				    freetype-config		 initex			     montage		   preconv		     sqlite3			     withsctp
+colcrt				    funzip			 install		     more		   pre-grohtml		     ssh			     write
+colrm				    g++				 instmodsh		     mount		   printafm		     ssh-add			     wsgen
+column				    gapplication		 interdiff		     mountpoint		   printenv		     ssh-agent			     wsimport
+combinediff			    gawk			 intltool-extract	     mptopdf		   printf		     ssh-copy-id		     x86_64
+comm				    gcc				 intltoolize		     msgattrib		   prlimit		     ssh-keygen			     x86_64-redhat-linux-c++
+command				    gcc-ar			 intltool-merge		     msgcat		   prove		     ssh-keyscan		     x86_64-redhat-linux-g++
+compare				    gcc-nm			 intltool-prepare	     msgcmp		   prtstat		     ssltap			     x86_64-redhat-linux-gcc
+compile_et			    gcc-ranlib			 intltool-update	     msgcomm		   ps			     sss_ssh_authorizedkeys	     x86_energy_perf_policy
+complete-ant-cmd.pl		    gconf-merge-tree		 ionice			     msgconv		   ps2ascii		     sss_ssh_knownhostsproxy	     xargs
+composite			    gconftool-2			 ipa			     msgen		   ps2epsi		     stap			     xdriinfo
+conjure				    gcore			 ipa-getcert		     msgexec		   ps2pdf		     stapdyn			     xdvi
+convert				    gcov			 ipcalc			     msgfilter		   ps2pdf12		     stap-merge			     xdvi-xaw
+coredumpctl			    gctags			 ipcmk			     msgfmt		   ps2pdf13		     stap-prep			     xerces-j2-constants
+cp				    gdb				 ipcrm			     msggrep		   ps2pdf14		     stap-report		     xerces-j2-version
+cpio				    gdb-add-index		 ipcs			     msghack		   ps2pdfwr		     staprun			     xgettext
+cpp				    gdbus			 iptables-xml		     msginit		   ps2ps		     stapsh			     xjc
+cpupower			    gdbus-codegen		 irb			     msgmerge		   ps2ps2		     stat			     xml2-config
+createdb			    gdk-pixbuf-query-loaders-64  isosize		     msgunfmt		   psed			     stdbuf			     xmlcatalog
+create-jar-links		    gdk-pixbuf-thumbnailer	 jaotc			     msguniq		   psfaddtable		     stream			     xmllint
+createlang			    gem				 jar			     mutt		   psfgettable		     strings			     xml-resolver
+createuser			    gencat			 jarsigner		     mv			   psfstriptable	     strip			     xmlwf
+crlutil				    gendiff			 java			     mvn		   psfxtable		     stty			     xml-xparse
+crontab				    genl-ctrl-list		 javac			     mvnDebug		   psql			     su				     xml-xread
+cscope				    geoiplookup			 javadoc		     mvnyjp		   pstack		     sudo			     xmvn-builddep
+cscope-indexer			    geoiplookup6		 javap			     nail		   pstree		     sudoedit			     xorg-x11-fonts-update-dirs
+csh				    geoipupdate			 javapackager		     namei		   pstree.x11		     sudoreplay			     xslt-config
+csplit				    geqn			 javaws			     nano		   pstruct		     sum			     xsltproc
+csslint-0.6			    getcert			 jcmd			     nc			   ptaskset		     svn			     xsubpp
+ctags				    getconf			 jconsole		     ncat		   ptx			     svnadmin			     xxd
+curl				    getent			 jcontrol		     ncurses5-config	   pwd			     svndumpfilter		     xz
+cut				    getfacl			 jdb			     ncursesw5-config	   pwdx			     svnlook			     xzcat
+cvs				    getkeycodes			 jdeprscan		     ndptool		   pwmake		     svnrdump			     xzcmp
+cvsbug				    getopt			 jdeps			     needs-restarting	   pwscore		     svnserve			     xzdec
+date				    getopts			 jhsdb			     nekohtml-filter	   pydoc		     svnsync			     xzdiff
+db_archive			    gettext			 jimage			     neqn		   python		     svnversion			     xzegrep
+db_checkpoint			    gettextize			 jinfo			     netaddr		   python2		     swig			     xzfgrep
+db_deadlock			    gettext.sh			 jjs			     netstat		   python2.7		     sync			     xzgrep
+db_dump				    gfortran			 jlink			     nettle-hash	   qdbuscpp2xml-qt5	     syncqt.pl			     xzless
+db_dump185			    gftodvi			 jmap			     nettle-lfib-stream    qdbusxml2cpp-qt5	     systemctl			     xzmore
+db_hotbackup			    gftopk			 jmc			     newaliases		   qemu-ga		     systemd-analyze		     yacc
+db_load				    gftype			 jmod			     newaliases.postfix    qlalr		     systemd-ask-password	     yes
+db_log_verify			    ghc				 jobs			     newgrp		   qmake-qt5		     systemd-cat		     ypdomainname
+db_printlog			    ghc-7.6.3			 join			     nf-ct-add		   qml			     systemd-cgls		     yum
+db_recover			    ghc-doc-index		 journalctl		     nf-ct-list		   qmlcachegen		     systemd-cgtop		     yum-builddep
+db_replicate			    ghci			 jps			     nf-exp-add		   qmleasing		     systemd-coredumpctl	     yum-config-manager
+db_stat				    ghci-7.6.3			 jrunscript		     nf-exp-delete	   qmlimportscanner	     systemd-delta		     yum-debug-dump
+db_tuner			    ghc-pkg			 jshell			     nf-exp-list	   qmllint		     systemd-detect-virt	     yum-debug-restore
+db_upgrade			    ghc-pkg-7.6.3		 jsonpointer		     nf-log		   qmlmin		     systemd-escape		     yumdownloader
+dbus-binding-tool		    ghostscript			 jstack			     nf-monitor		   qmlmin-qt5		     systemd-firstboot		     yum-groups-manager
+dbus-cleanup-sockets		    gio				 jstat			     nf-queue		   qmlplugindump-qt5	     systemd-hwdb		     zcat
+dbus-daemon			    gio-querymodules-64		 jstatd			     ngettext		   qmlprofiler-qt5	     systemd-inhibit		     zcmp
+dbus-monitor			    git				 jvmjar			     nice		   qml-qt5		     systemd-loginctl		     zdiff
+dbus-run-session		    git-receive-pack		 jweblauncher		     nisdomainname	   qmlscene		     systemd-machine-id-setup	     zegrep
+dbus-send			    git-shell			 k5srvutil		     nl			   qmlscene-qt5		     systemd-notify		     zfgrep
+dbus-test-tool			    git-upload-archive		 kadmin			     nl-addr-add	   qmltestrunner	     systemd-nspawn		     zforce
+dbus-update-activation-environment  git-upload-pack		 kbdinfo		     nl-addr-delete	   quota		     systemd-path		     zgrep
+dbus-uuidgen			    glib-compile-resources	 kbd_mode		     nl-addr-list	   quotasync		     systemd-run		     zip
+db_verify			    glib-compile-schemas	 kbdrate		     nl-class-add	   ranlib		     systemd-stdio-bridge	     zipcloak
+dc				    glib-genmarshal		 kdestroy		     nl-class-delete	   raw			     systemd-sysv-convert	     zipcmp
+dconf				    glib-gettextize		 kdumpctl		     nl-classid-lookup	   rcc-qt5		     systemd-tmpfiles		     zipgrep
+dd				    glib-mkenums		 kernel-install		     nl-class-list	   rcs			     systemd-tty-ask-password-agent  zipinfo
+deallocvt			    glxgears			 keyctl			     nl-cls-add		   rcsclean		     tabs			     zipmerge
+debuginfo-install		    glxinfo			 keytool		     nl-cls-delete	   rcsdiff		     tac			     zipnote
+dehtmldiff			    glxinfo64			 kill			     nl-cls-list	   rcsfreeze		     tail			     zipsplit
+desktop-file-edit		    gmake			 killall		     nl-fib-lookup	   rcsmerge		     tailf			     ziptorrent
+desktop-file-install		    gneqn			 kinit			     nl-link-enslave	   rdoc			     tar			     zless
+desktop-file-validate		    gnroff			 klist			     nl-link-ifindex2name  read			     taskset			     zmore
+df				    gobject-query		 kmod			     nl-link-list	   readelf		     tbl			     znew
+dgawk				    gpasswd			 kpasswd		     nl-link-name2ifindex  readlink		     tcamgr			     zsh
+diff				    gpg				 kpseaccess		     nl-link-release	   realpath		     tcamttest			     zsoelim
+diff3				    gpg2			 kpsepath		     nl-link-set	   rebuild-jar-repository    tcatest
+diff-jars			    gpg-agent			 kpsereadlink		     nl-link-stats	   recode-sr-latin	     tcbmgr
+diffstat			    gpgconf			 kpsestat		     nl-list-caches	   recountdiff		     tcbmttest
+dig				    gpg-connect-agent		 kpsetool		     nl-list-sockets	   rediff		     tcbtest
+dir				    gpg-error			 kpsewhere		     nl-monitor		   reindexdb		     tcfmgr
+bash-4.2$ L[Kls **
+[				    dircolors			 gpg-error-config	     kpsewhich		   nl-neigh-add		     rename			     tcfmttest
+a2p				    dirname			 gpgparsemail		     kpsexpand		   nl-neigh-delete	     renice			     tcftest
+ab				    display			 gpgsplit		     krb5-config	   nl-neigh-list	     repoclosure		     tchmgr
+abs2rel				    dmesg			 gpgv			     ksh		   nl-neightbl-list	     repodiff			     tchmttest
+aclocal				    dnsdomainname		 gpgv2			     ksh93		   nl-pktloc-lookup	     repo-graph			     tchtest
+aclocal-1.13			    domainname			 gpg-zip		     ksu		   nl-qdisc-add		     repomanage			     tclsh
+addr2line			    dotlockfile			 gpic			     kswitch		   nl-qdisc-delete	     repoquery			     tclsh8.5
+afm2tfm				    doxygen			 gplc			     ktutil		   nl-qdisc-list	     repo-rss			     tcsh
+alias				    dracut			 gprof			     kvno		   nl-route-add		     reposync			     tctmgr
+allcm				    dropdb			 gprolog		     last		   nl-route-delete	     repotrack			     tctmttest
+allec				    droplang			 gr2fonttest		     lastb		   nl-route-get		     reset			     tcttest
+allneeded			    dropuser			 grep			     lastlog		   nl-route-list	     resizecons			     tcucodec
+alpine				    dtrace			 grep-changelog		     latex		   nl-rule-list		     rev			     tcumttest
+animate				    du				 grepdiff		     lchfn		   nl-tctree-list	     ri				     tcutest
+ant				    dumpkeys			 gresource		     lchsh		   nl-util-addr		     rksh			     teamd
+antRun				    dumpsexp			 groff			     ld			   nm			     rlog			     teamdctl
+antRun.pl			    dvi2fax			 grops			     ld.bfd		   node			     rm				     teamnl
+appletviewer			    dvilualatex			 grotty			     ldd		   node_g		     rmail			     tee
+apropos				    dviluatex			 groups			     ld.gold		   nohup		     rmail.postfix		     test
+ar				    dvipdf			 growpart		     less		   npm			     rmdir			     testgdbm
+arch				    dvipdfm			 grub2-editenv		     lessecho		   nproc		     rmic			     testrb
+as				    dvipdfmx			 grub2-file		     lesskey		   nroff		     rmid			     tex
+aserver				    dvipdft			 grub2-fstest		     lesspipe.sh	   nsenter		     rmiregistry		     texconfig
+audit2allow			    dvips			 grub2-glue-efi		     lex		   nslookup		     rnano			     texconfig-dialog
+audit2why			    dvired			 grub2-kbdcomp		     lexgrog		   nsupdate		     rpcgen			     texconfig-sys
+aulast				    dwp				 grub2-menulst2cfg	     libgcrypt-config	   ntpstat		     rpdump			     texhash
+aulastlog			    dwz				 grub2-mkfont		     libnetcfg		   numfmt		     rpload			     texlinks
+ausyscall			    easy_install		 grub2-mkimage		     libpng12-config	   objcopy		     rpm			     texlua
+autoconf			    easy_install-2.7		 grub2-mklayout		     libpng15-config	   objdump		     rpm2cpio			     texluac
+autoheader			    ebb				 grub2-mknetdir		     libpng-config	   ocs			     rpmbuild			     thumbpdf
+autom4te			    ebrowse			 grub2-mkpasswd-pbkdf2	     libtool		   od			     rpmdb			     tic
+automake			    echo			 grub2-mkrelpath	     libtoolize		   oddjob_request	     rpmkeys			     timedatectl
+automake-1.13			    ecpg			 grub2-mkrescue		     link		   oldfind		     rpmquery			     timeout
+autopoint			    editdiff			 grub2-mkstandalone	     linux32		   open			     rpmsign			     tload
+autoreconf			    egrep			 grub2-render-label	     linux64		   openssl		     rpmspec			     tmon
+autoscan			    eject			 grub2-script-check	     linux-boot-prober	   openvt		     rpmverify			     tmux
+autoupdate			    elfedit			 grub2-syslinux2cfg	     ln			   orbd			     rsync			     tnameserv
+auvirt				    emacs			 gs			     loadkeys		   orc-bugreport	     rsyslog-recover-qi.pl	     toe
+awk				    emacs-24.3			 gsbj			     loadunimap		   os-prober		     ruby			     top
+base64				    emacsclient			 gsdj			     locale		   otfdump		     runant.pl			     touch
+basename			    env				 gsdj500		     localectl		   otflist		     runant.py			     tput
+bash				    envsubst			 gsettings		     localedef		   otftobdf		     runcon			     tr
+bashbug				    eps2eps			 gsettings-data-convert      local-getcert	   otfview		     runghc			     tracepath
+bashbug-64			    eqn				 gsftopk		     logfactor5		   p11-kit		     runghc-7.6.3		     tracepath6
+bc				    erb				 gslj			     logger		   pack200		     runhaskell			     troff
+bdftopcf			    espdiff			 gslp			     login		   package-cleanup	     runhaskell-ghc		     true
+bdftruncate			    etags			 gsnd			     loginctl		   pango-view		     run-parts			     truncate
+bg				    etags.emacs			 gsoelim		     logname		   passwd		     rvi			     trust
+bibtex				    etex			 gss-client		     logresolve		   paste		     rview			     tset
+bison				    eu-addr2line		 gstack			     look		   patch		     rvim			     tsort
+bond2team			    eu-ar			 gst-feedback		     lprsetup.sh	   pathchk		     s2p			     ttmkfdir
+bootctl				    eu-elfcmp			 gst-feedback-0.10	     ls			   pchrt		     sandbox			     tty
+build-classpath			    eu-elfcompress		 gst-inspect		     lsattr		   pcre-config		     schemagen			     turbostat
+build-classpath-directory	    eu-elflint			 gst-inspect-0.10	     lsblk		   pdf2dsc		     scp			     tzselect
+build-jar-repository		    eu-findtextrel		 gst-launch		     lscpu		   pdf2ps		     script			     ucs2any
+bunzip2				    eu-make-debug-archive	 gst-launch-0.10	     lsdiff		   pdfetex		     scriptreplay		     udevadm
+busctl				    eu-nm			 gst-typefind		     lsinitrd		   pdflatex		     sctp_darn			     uic-qt5
+byacc				    eu-objdump			 gst-typefind-0.10	     lsipc		   pdftex		     sctp_status		     ul
+bzcat				    eu-ranlib			 gst-xmlinspect		     lslocks		   peekfd		     sctp_test			     umask
+bzcmp				    eu-readelf			 gst-xmlinspect-0.10	     lslogins		   perf			     sdiff			     umount
+bzdiff				    eu-size			 gst-xmllaunch		     lsmem		   perl			     sdl-config			     unalias
+bzgrep				    eu-stack			 gst-xmllaunch-0.10	     lsns		   perl5.16.3		     secon			     uname
+bzip2				    eu-strings			 gtar			     lua		   perlbug		     sed			     unexpand
+bzip2recover			    eu-strip			 gtbl			     luac		   perldoc		     sedismod			     unicode_start
+bzless				    eu-unstrip			 gtester		     lualatex		   perlivp		     sedispol			     unicode_stop
+bzmore				    ex				 gtester-report		     luatex		   perlthanks		     selfsign-getcert		     uniq
+c++				    expand			 gtk-launch		     lz4		   pf2afm		     semodule_package		     unix-lpr.sh
+c2ph				    expr			 gtk-query-immodules-3.0-64  lz4c		   pfbtopfa		     seq			     unlink
+c89				    extractbb			 gtk-update-icon-cache	     lz4cat		   pflags		     serialver			     unlz4
+c99				    f95				 gtroff			     m17n-conv		   pgawk		     servertool			     unpack200
+cabal				    factor			 gunzip			     m4			   pg_config		     setarch			     unshare
+cairo-sphinx			    fail2ban-client		 gzexe			     ma2asm		   pg_dump		     setfacl			     unwrapdiff
+cal				    fail2ban-python		 gzip			     machinectl		   pg_dumpall		     setfont			     unxz
+ca-legacy			    fail2ban-regex		 h2ph			     Magick-config	   pgpewrap		     setkeycodes		     unzip
+captoinfo			    fail2ban-server		 h2xs			     MagickCore-config	   pgpring		     setleds			     unzipsfx
+cat				    fallocate			 haddock		     MagickWand-config	   pgrep		     setmetamode		     update-ca-trust
+catchsegv			    false			 haddock-ghc-7.6.3	     Mail		   pg_restore		     setpriv			     update-desktop-database
+catman				    fc				 head			     mail		   phar			     setsid			     update-mime-database
+cc				    fc-cache			 hesinfo		     mailq		   phar.phar		     setterm			     updmap
+ccache-swig			    fc-cat			 hexdump		     mailq.postfix	   php			     setup-nsssysinit		     updmap-sys
+cd				    fc-list			 hexgplc		     mailx		   php-cgi		     setup-nsssysinit.sh	     uptime
+centrino-decode			    fc-match			 hg			     make		   php-config		     setvtrgb			     urlgrabber
+certmaster-getcert		    fc-pattern			 hg-ssh			     makedb		   phpize		     sexp-conv			     url_handler.sh
+certutil			    fc-query			 hlint			     makeindex		   pic			     sftp			     urlview
+c++filt				    fc-scan			 hmac256		     man		   pico			     sg				     users
+chacl				    fc-validate			 host			     mandb		   piconv		     sh				     usleep
+chage				    fd2c			 hostid			     manpath		   pilot		     sha1sum			     utmpdump
+chainsaw			    fg				 hostname		     mapscrn		   pinentry		     sha224sum			     uuclient
+chardetect			    fgconsole			 hostnamectl		     mcookie		   pinentry-curses	     sha256sum			     uuidgen
+chattr				    fgrep			 hp2ps			     md5sum		   ping			     sha384sum			     vacuumdb
+chcat				    file			 hpc			     merge		   ping6		     sha512sum			     vdir
+chcon				    filterdiff			 hsc2hs			     mesg		   pinky		     shcomp			     verifytree
+check-binary-files		    find			 hsc2hs-ghc		     mf			   pk12util		     show-changed-rco		     vi
+checkmk				    find2perl			 htdbm			     mf-nowin		   pkaction		     showconsolefont		     view
+checkmodule			    find-jar			 htdigest		     mft		   pkcheck		     show-installed		     vim
+checkpolicy			    findmnt			 htpasswd		     miniterm.py	   pkcs1-conv		     showkey			     vimdiff
+checksctp			    find-repos-of-install	 httxt2dbm		     mkdir		   pkexec		     shred			     vimtutor
+chfn				    finger			 hunspell		     mkfifo		   pkg-config		     shuf			     vlock
+chgrp				    fipscheck			 i386			     mkfontdir		   pkill		     signtool			     vmstat
+chmem				    fipshmac			 iconv			     mkfontscale	   pkla-admin-identities     signver			     w
+chmod				    fish			 id			     mkindex		   pkla-check-authorization  sim_client			     wait
+chown				    fish_indent			 ident			     mkinitrd		   pktogf		     simpdftex			     wall
+chronyc				    fish_key_reader		 identify		     mkluatexfontdb	   pkttyagent		     size			     wam2ma
+chrt				    fixcvsdiff			 idiag-socket-details	     mknod		   pktype		     skill			     Wand-config
+chsh				    fixqt4headers.pl		 idlj			     mkocp		   pl2pm		     slabtop			     watch
+chvt				    flex			 idn			     mkofm		   pl2wam		     sleep			     watchgnupg
+ci				    flex++			 ifnames		     mktemp		   pldd			     slogin			     wc
+cksum				    flipdiff			 igawk			     mktexfmt		   pmap			     smime_keys			     wdctl
+clean-binary-files		    flock			 ijs-config		     mktexlsr		   pod2html		     snice			     wftopfa
+clear				    fmt				 import			     mktexmf		   pod2man		     soelim			     wget
+cloud-init			    fmtutil			 indent			     mktexpk		   pod2text		     sort			     whatis
+cloud-init-per			    fmtutil-sys			 info			     mktextfm		   pod2usage		     sotruss			     whereis
+clusterdb			    fold			 infocmp		     moc-qt5		   post-grohtml		     splain			     which
+cmp				    font2c			 infokey		     modutil		   powernow-k8-decode	     split			     whiptail
+cmsutil				    fonttosfnt			 infotocap		     mogrify		   pphs			     splitdiff			     who
+co				    free			 inimf			     mokutil		   pr			     sprof			     whoami
+col				    freetype-config		 initex			     montage		   preconv		     sqlite3			     withsctp
+colcrt				    funzip			 install		     more		   pre-grohtml		     ssh			     write
+colrm				    g++				 instmodsh		     mount		   printafm		     ssh-add			     wsgen
+column				    gapplication		 interdiff		     mountpoint		   printenv		     ssh-agent			     wsimport
+combinediff			    gawk			 intltool-extract	     mptopdf		   printf		     ssh-copy-id		     x86_64
+comm				    gcc				 intltoolize		     msgattrib		   prlimit		     ssh-keygen			     x86_64-redhat-linux-c++
+command				    gcc-ar			 intltool-merge		     msgcat		   prove		     ssh-keyscan		     x86_64-redhat-linux-g++
+compare				    gcc-nm			 intltool-prepare	     msgcmp		   prtstat		     ssltap			     x86_64-redhat-linux-gcc
+compile_et			    gcc-ranlib			 intltool-update	     msgcomm		   ps			     sss_ssh_authorizedkeys	     x86_energy_perf_policy
+complete-ant-cmd.pl		    gconf-merge-tree		 ionice			     msgconv		   ps2ascii		     sss_ssh_knownhostsproxy	     xargs
+composite			    gconftool-2			 ipa			     msgen		   ps2epsi		     stap			     xdriinfo
+conjure				    gcore			 ipa-getcert		     msgexec		   ps2pdf		     stapdyn			     xdvi
+convert				    gcov			 ipcalc			     msgfilter		   ps2pdf12		     stap-merge			     xdvi-xaw
+coredumpctl			    gctags			 ipcmk			     msgfmt		   ps2pdf13		     stap-prep			     xerces-j2-constants
+cp				    gdb				 ipcrm			     msggrep		   ps2pdf14		     stap-report		     xerces-j2-version
+cpio				    gdb-add-index		 ipcs			     msghack		   ps2pdfwr		     staprun			     xgettext
+cpp				    gdbus			 iptables-xml		     msginit		   ps2ps		     stapsh			     xjc
+cpupower			    gdbus-codegen		 irb			     msgmerge		   ps2ps2		     stat			     xml2-config
+createdb			    gdk-pixbuf-query-loaders-64  isosize		     msgunfmt		   psed			     stdbuf			     xmlcatalog
+create-jar-links		    gdk-pixbuf-thumbnailer	 jaotc			     msguniq		   psfaddtable		     stream			     xmllint
+createlang			    gem				 jar			     mutt		   psfgettable		     strings			     xml-resolver
+createuser			    gencat			 jarsigner		     mv			   psfstriptable	     strip			     xmlwf
+crlutil				    gendiff			 java			     mvn		   psfxtable		     stty			     xml-xparse
+crontab				    genl-ctrl-list		 javac			     mvnDebug		   psql			     su				     xml-xread
+cscope				    geoiplookup			 javadoc		     mvnyjp		   pstack		     sudo			     xmvn-builddep
+cscope-indexer			    geoiplookup6		 javap			     nail		   pstree		     sudoedit			     xorg-x11-fonts-update-dirs
+csh				    geoipupdate			 javapackager		     namei		   pstree.x11		     sudoreplay			     xslt-config
+csplit				    geqn			 javaws			     nano		   pstruct		     sum			     xsltproc
+csslint-0.6			    getcert			 jcmd			     nc			   ptaskset		     svn			     xsubpp
+ctags				    getconf			 jconsole		     ncat		   ptx			     svnadmin			     xxd
+curl				    getent			 jcontrol		     ncurses5-config	   pwd			     svndumpfilter		     xz
+cut				    getfacl			 jdb			     ncursesw5-config	   pwdx			     svnlook			     xzcat
+cvs				    getkeycodes			 jdeprscan		     ndptool		   pwmake		     svnrdump			     xzcmp
+cvsbug				    getopt			 jdeps			     needs-restarting	   pwscore		     svnserve			     xzdec
+date				    getopts			 jhsdb			     nekohtml-filter	   pydoc		     svnsync			     xzdiff
+db_archive			    gettext			 jimage			     neqn		   python		     svnversion			     xzegrep
+db_checkpoint			    gettextize			 jinfo			     netaddr		   python2		     swig			     xzfgrep
+db_deadlock			    gettext.sh			 jjs			     netstat		   python2.7		     sync			     xzgrep
+db_dump				    gfortran			 jlink			     nettle-hash	   qdbuscpp2xml-qt5	     syncqt.pl			     xzless
+db_dump185			    gftodvi			 jmap			     nettle-lfib-stream    qdbusxml2cpp-qt5	     systemctl			     xzmore
+db_hotbackup			    gftopk			 jmc			     newaliases		   qemu-ga		     systemd-analyze		     yacc
+db_load				    gftype			 jmod			     newaliases.postfix    qlalr		     systemd-ask-password	     yes
+db_log_verify			    ghc				 jobs			     newgrp		   qmake-qt5		     systemd-cat		     ypdomainname
+db_printlog			    ghc-7.6.3			 join			     nf-ct-add		   qml			     systemd-cgls		     yum
+db_recover			    ghc-doc-index		 journalctl		     nf-ct-list		   qmlcachegen		     systemd-cgtop		     yum-builddep
+db_replicate			    ghci			 jps			     nf-exp-add		   qmleasing		     systemd-coredumpctl	     yum-config-manager
+db_stat				    ghci-7.6.3			 jrunscript		     nf-exp-delete	   qmlimportscanner	     systemd-delta		     yum-debug-dump
+db_tuner			    ghc-pkg			 jshell			     nf-exp-list	   qmllint		     systemd-detect-virt	     yum-debug-restore
+db_upgrade			    ghc-pkg-7.6.3		 jsonpointer		     nf-log		   qmlmin		     systemd-escape		     yumdownloader
+dbus-binding-tool		    ghostscript			 jstack			     nf-monitor		   qmlmin-qt5		     systemd-firstboot		     yum-groups-manager
+dbus-cleanup-sockets		    gio				 jstat			     nf-queue		   qmlplugindump-qt5	     systemd-hwdb		     zcat
+dbus-daemon			    gio-querymodules-64		 jstatd			     ngettext		   qmlprofiler-qt5	     systemd-inhibit		     zcmp
+dbus-monitor			    git				 jvmjar			     nice		   qml-qt5		     systemd-loginctl		     zdiff
+dbus-run-session		    git-receive-pack		 jweblauncher		     nisdomainname	   qmlscene		     systemd-machine-id-setup	     zegrep
+dbus-send			    git-shell			 k5srvutil		     nl			   qmlscene-qt5		     systemd-notify		     zfgrep
+dbus-test-tool			    git-upload-archive		 kadmin			     nl-addr-add	   qmltestrunner	     systemd-nspawn		     zforce
+dbus-update-activation-environment  git-upload-pack		 kbdinfo		     nl-addr-delete	   quota		     systemd-path		     zgrep
+dbus-uuidgen			    glib-compile-resources	 kbd_mode		     nl-addr-list	   quotasync		     systemd-run		     zip
+db_verify			    glib-compile-schemas	 kbdrate		     nl-class-add	   ranlib		     systemd-stdio-bridge	     zipcloak
+dc				    glib-genmarshal		 kdestroy		     nl-class-delete	   raw			     systemd-sysv-convert	     zipcmp
+dconf				    glib-gettextize		 kdumpctl		     nl-classid-lookup	   rcc-qt5		     systemd-tmpfiles		     zipgrep
+dd				    glib-mkenums		 kernel-install		     nl-class-list	   rcs			     systemd-tty-ask-password-agent  zipinfo
+deallocvt			    glxgears			 keyctl			     nl-cls-add		   rcsclean		     tabs			     zipmerge
+debuginfo-install		    glxinfo			 keytool		     nl-cls-delete	   rcsdiff		     tac			     zipnote
+dehtmldiff			    glxinfo64			 kill			     nl-cls-list	   rcsfreeze		     tail			     zipsplit
+desktop-file-edit		    gmake			 killall		     nl-fib-lookup	   rcsmerge		     tailf			     ziptorrent
+desktop-file-install		    gneqn			 kinit			     nl-link-enslave	   rdoc			     tar			     zless
+desktop-file-validate		    gnroff			 klist			     nl-link-ifindex2name  read			     taskset			     zmore
+df				    gobject-query		 kmod			     nl-link-list	   readelf		     tbl			     znew
+dgawk				    gpasswd			 kpasswd		     nl-link-name2ifindex  readlink		     tcamgr			     zsh
+diff				    gpg				 kpseaccess		     nl-link-release	   realpath		     tcamttest			     zsoelim
+diff3				    gpg2			 kpsepath		     nl-link-set	   rebuild-jar-repository    tcatest
+diff-jars			    gpg-agent			 kpsereadlink		     nl-link-stats	   recode-sr-latin	     tcbmgr
+diffstat			    gpgconf			 kpsestat		     nl-list-caches	   recountdiff		     tcbmttest
+dig				    gpg-connect-agent		 kpsetool		     nl-list-sockets	   rediff		     tcbtest
+dir				    gpg-error			 kpsewhere		     nl-monitor		   reindexdb		     tcfmgr
+bash-4.2$ exit
+exit
+
+Script done on Thu 20 Sep 2018 12:12:34 PM EDT

@@ -1,0 +1,38 @@
+Script started on Thu 20 Sep 2018 12:17:06 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/iborwick/cs2211/asn1
+bash-4.2$ date
+Thu Sep 20 12:17:29 EDT 2018
+bash-4.2$ whoami
+iborwick
+bash-4.2$ cd $home
+bash-4.2$ cd Courses
+bash-4.2$ cd Cs[KS2211a
+bash-4.2$ . -type d[1@f[1@i[1@n[1@d[1@ 
+.
+./Labs
+./Labs/lab1
+./Labs/lab2
+./Asns
+./Asns/asn1
+./Asns/asn1/dir0
+./Asns/asn1/dir1
+bash-4.2$ find . -type f -name "d*"
+./Asns/asn1/df1
+./Asns/asn1/df0
+bash-4.2$  find . -mtime -2[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+.
+./Labs
+./Labs/lab2
+./Asns
+./Asns/asn1
+./Asns/asn1/df1
+./Asns/asn1/answer.pdf
+./Asns/asn1/SubmForm.txt
+./Asns/asn1/dir0
+./Asns/asn1/df0
+./Asns/asn1/dir1
+bash-4.2$ exit
+exit
+
+Script done on Thu 20 Sep 2018 12:19:12 PM EDT
